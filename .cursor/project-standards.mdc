@@ -1,0 +1,41 @@
+---
+alwaysApply: true
+---
+
+# Project Standards
+
+## Language & Framework
+
+- TypeScript strict mode — no `any` types
+- React 18 with functional components only
+- styled-components for styling (use theme tokens, not hardcoded values)
+- Vitest + React Testing Library for tests
+
+## Code Style
+
+- Named exports for components
+- One component per file
+- Props interface defined above the component
+- Destructure props in function signature
+- Use `const` arrow functions for components
+- Prefer composition over inheritance
+
+## Naming
+
+- Components: PascalCase
+- Files: PascalCase for components, camelCase for utilities
+- Props interfaces: `ComponentNameProps`
+- Styled components: descriptive names (e.g., `HeaderContainer`, not `Div1`)
+
+## Testing
+
+- Test behavior, not implementation
+- Use `screen.getByRole` and `screen.getByText` over `getByTestId`
+- Each test should be independent
+
+## AI Usage
+
+- Review all AI-generated code before accepting
+- Prefer small, targeted prompts over large generation requests
+- Write simple logic by hand (loops, conditionals, basic state)
+- Use AI for boilerplate, complex APIs, and scaffolding
