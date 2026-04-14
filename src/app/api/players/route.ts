@@ -6,7 +6,7 @@ export async function GET(request: NextRequest) {
 
   const players = await prisma.player.findMany({
     where: q
-      ? { fullName: { contains: q } }
+      ? { fullName: { contains: q, mode: "insensitive" as const } }
       : undefined,
     orderBy: { fullName: "asc" },
     take: 50,
