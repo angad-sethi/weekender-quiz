@@ -32,7 +32,7 @@ const ScoreCard = styled.div`
   border-radius: ${({ theme }) => theme.borderRadius};
   padding: ${({ theme }) => theme.spacing.xl};
   text-align: center;
-  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.08);
+  box-shadow: ${({ theme }) => theme.shadow.lg};
   margin-bottom: ${({ theme }) => theme.spacing.lg};
 `;
 
@@ -40,6 +40,7 @@ const ScoreTitle = styled.h1`
   font-size: ${({ theme }) => theme.fontSizes.xl};
   color: ${({ theme }) => theme.colors.text};
   margin-bottom: ${({ theme }) => theme.spacing.sm};
+  letter-spacing: 0.04em;
 `;
 
 const ScoreValue = styled.div`
@@ -68,7 +69,7 @@ const ResultCard = styled.div<{ $correct: boolean }>`
   border-left: 4px solid
     ${({ $correct, theme }) =>
       $correct ? theme.colors.success : theme.colors.error};
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+  box-shadow: ${({ theme }) => theme.shadow.sm};
 `;
 
 const ResultQuestion = styled.p`

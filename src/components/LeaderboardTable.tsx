@@ -27,7 +27,7 @@ const Entry = styled.div<{ $rank: number }>`
   background: ${({ theme }) => theme.colors.surface};
   border-radius: ${({ theme }) => theme.borderRadiusSm};
   margin-bottom: ${({ theme }) => theme.spacing.sm};
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+  box-shadow: ${({ theme }) => theme.shadow.sm};
   border-left: 4px solid
     ${({ $rank, theme }) => {
       if ($rank === 1) return theme.colors.gold;
@@ -53,7 +53,7 @@ const RankBadge = styled.div<{ $rank: number }>`
     if ($rank === 3) return theme.colors.bronze;
     return theme.colors.border;
   }};
-  color: ${({ $rank }) => ($rank <= 3 ? "white" : "#636E72")};
+  color: ${({ $rank, theme }) => ($rank <= 3 ? "white" : theme.colors.textLight)};
 `;
 
 const Info = styled.div`

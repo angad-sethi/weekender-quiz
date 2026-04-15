@@ -28,6 +28,7 @@ const QuizTitle = styled.h1`
   font-size: ${({ theme }) => theme.fontSizes.xl};
   color: ${({ theme }) => theme.colors.primary};
   margin-bottom: ${({ theme }) => theme.spacing.xs};
+  letter-spacing: 0.04em;
 `;
 
 const TeamInfo = styled.p`
@@ -69,7 +70,7 @@ const SubmitButton = styled.button`
   margin-top: ${({ theme }) => theme.spacing.md};
 
   &:hover:not(:disabled) {
-    background: #00b5b0;
+    background: ${({ theme }) => theme.colors.secondaryHover};
   }
 
   &:active:not(:disabled) {

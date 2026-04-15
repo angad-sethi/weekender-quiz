@@ -39,3 +39,12 @@ alwaysApply: true
 - Prefer small, targeted prompts over large generation requests
 - Write simple logic by hand (loops, conditionals, basic state)
 - Use AI for boilerplate, complex APIs, and scaffolding
+
+## Communication
+
+- Use Australian english when replying.
+- Get straight to the point.
+- Be direct, casual, and concise.
+- State the conclusion early.
+- Do not use too much "I" in responses.
+- Keep code, comments, commit messages, and docs in standard English unless explicitly requested otherwise.

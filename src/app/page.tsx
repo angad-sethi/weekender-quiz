@@ -26,7 +26,7 @@ const Card = styled.div`
   padding: ${({ theme }) => theme.spacing.xl};
   width: 100%;
   max-width: 480px;
-  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.08);
+  box-shadow: ${({ theme }) => theme.shadow.lg};
 `;
 
 const Title = styled.h1`
@@ -34,6 +34,7 @@ const Title = styled.h1`
   color: ${({ theme }) => theme.colors.primary};
   text-align: center;
   margin-bottom: ${({ theme }) => theme.spacing.xl};
+  letter-spacing: 0.04em;
 `;
 
 const Subtitle = styled.p`

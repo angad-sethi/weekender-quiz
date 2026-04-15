@@ -51,7 +51,7 @@ const Dropdown = styled.ul`
   max-height: 200px;
   overflow-y: auto;
   z-index: 10;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  box-shadow: ${({ theme }) => theme.shadow.dropdown};
 `;
 
 const DropdownItem = styled.li<{ $highlighted?: boolean }>`
@@ -82,13 +82,34 @@ const AddNewButton = styled.button`
   }
 `;
 
+const Hint = styled.li`
+  padding: ${({ theme }) => theme.spacing.md};
+  color: ${({ theme }) => theme.colors.textLight};
+  font-size: ${({ theme }) => theme.fontSizes.sm};
+`;
+
+const ErrorText = styled.li`
+  padding: ${({ theme }) => theme.spacing.md};
+  color: ${({ theme }) => theme.colors.error};
+  font-size: ${({ theme }) => theme.fontSizes.sm};
+`;
+
+const NAME_PATTERN = /^[a-zA-Z'-]+\s+[a-zA-Z'-]+$/;
+
+function isValidFullName(name: string): boolean {
+  return NAME_PATTERN.test(name.trim());
+}
+
 export default function PlayerSearch({ selectedPlayers, onSelect }: PlayerSearchProps) {
   const [query, setQuery] = useState("");
   const [results, setResults] = useState<Player[]>([]);
   const [showDropdown, setShowDropdown] = useState(false);
   const [loading, setLoading] = useState(false);
+  const [error, setError] = useState("");
   const wrapperRef = useRef<HTMLDivElement>(null);
   const debounceRef = useRef<NodeJS.Timeout>(undefined);
+  const showDropdownRef = useRef(false);
+  showDropdownRef.current = showDropdown;
 
   useEffect(() => {
     function handleClickOutside(e: MouseEvent) {
@@ -102,9 +123,19 @@ export default function PlayerSearch({ selectedPlayers, onSelect }: PlayerSearch
 
   useEffect(() => {
     if (debounceRef.current) clearTimeout(debounceRef.current);
+    setError("");
 
     if (!query.trim()) {
-      setResults([]);
+      if (showDropdownRef.current) {
+        fetch("/api/players?limit=5")
+          .then((res) => res.json())
+          .then((data: Player[]) => {
+            const selectedIds = new Set(selectedPlayers.map((p) => p.id));
+            setResults(data.filter((p) => !selectedIds.has(p.id)));
+          });
+      } else {
+        setResults([]);
+      }
       return;
     }
 
@@ -129,16 +160,41 @@ export default function PlayerSearch({ selectedPlayers, onSelect }: PlayerSearch
   async function handleAddNew() {
     const name = query.trim();
     if (!name) return;
+    setError("");
 
     const res = await fetch("/api/players", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ fullName: name }),
     });
-    const player: Player = await res.json();
-    onSelect(player);
+    const data = await res.json();
+
+    if (!res.ok) {
+      setError(data.error || "Failed to add player");
+      return;
+    }
+
+    onSelect(data);
     setQuery("");
     setShowDropdown(false);
+  }
+
+  async function handleFocus() {
+    if (query.trim()) {
+      setShowDropdown(true);
+      return;
+    }
+
+    setLoading(true);
+    setShowDropdown(true);
+    try {
+      const res = await fetch("/api/players?limit=5");
+      const data: Player[] = await res.json();
+      const selectedIds = new Set(selectedPlayers.map((p) => p.id));
+      setResults(data.filter((p) => !selectedIds.has(p.id)));
+    } finally {
+      setLoading(false);
+    }
   }
 
   function handleSelect(player: Player) {
@@ -158,7 +214,7 @@ export default function PlayerSearch({ selectedPlayers, onSelect }: PlayerSearch
         placeholder="Search or add team member..."
         value={query}
         onChange={(e) => setQuery(e.target.value)}
-        onFocus={() => query.trim() && setShowDropdown(true)}
+        onFocus={handleFocus}
       />
       {showDropdown && (query.trim() || results.length > 0) && (
         <Dropdown>
@@ -169,13 +225,18 @@ export default function PlayerSearch({ selectedPlayers, onSelect }: PlayerSearch
             </DropdownItem>
           ))}
           {!loading && query.trim() && !exactMatch && (
-            <AddNewButton onClick={handleAddNew}>
-              + Add &ldquo;{query.trim()}&rdquo; as new player
-            </AddNewButton>
+            isValidFullName(query) ? (
+              <AddNewButton onClick={handleAddNew}>
+                + Add &ldquo;{query.trim()}&rdquo; as new player
+              </AddNewButton>
+            ) : (
+              <Hint>Enter a first and last name (e.g. Jane Smith)</Hint>
+            )
           )}
           {!loading && results.length === 0 && exactMatch && (
             <DropdownItem>No more results</DropdownItem>
           )}
+          {error && <ErrorText>{error}</ErrorText>}
         </Dropdown>
       )}
     </Wrapper>

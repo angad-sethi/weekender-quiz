@@ -29,6 +29,7 @@ const Title = styled.h1`
   font-size: ${({ theme }) => theme.fontSizes.xxl};
   color: ${({ theme }) => theme.colors.primary};
   margin-bottom: ${({ theme }) => theme.spacing.xs};
+  letter-spacing: 0.04em;
 `;
 
 const Subtitle = styled.p`

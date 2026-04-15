@@ -1,8 +1,13 @@
-export const theme = {
+export const lightTheme = {
+  fontFamily: {
+    heading: 'var(--font-heading), Georgia, "Times New Roman", serif',
+    body: 'var(--font-body), Georgia, "Times New Roman", serif',
+  },
   colors: {
     primary: "#6C5CE7",
     primaryHover: "#5A4BD1",
     secondary: "#00CEC9",
+    secondaryHover: "#00b5b0",
     background: "#F8F9FA",
     surface: "#FFFFFF",
     text: "#2D3436",
@@ -29,13 +34,48 @@ export const theme = {
     sm: "0.875rem",
     md: "1rem",
     lg: "1.25rem",
-    xl: "1.5rem",
+    xl: "1.4rem",
     xxl: "2rem",
   },
   breakpoints: {
     tablet: "768px",
     desktop: "1024px",
   },
-} as const;
+  shadow: {
+    sm: "0 1px 4px rgba(0, 0, 0, 0.04)",
+    md: "0 2px 8px rgba(0, 0, 0, 0.06)",
+    lg: "0 4px 24px rgba(0, 0, 0, 0.08)",
+    dropdown: "0 4px 12px rgba(0, 0, 0, 0.1)",
+    toggle: "0 2px 12px rgba(0, 0, 0, 0.15)",
+  },
+};
 
-export type Theme = typeof theme;
+export type Theme = typeof lightTheme;
+
+export const darkTheme: Theme = {
+  ...lightTheme,
+  colors: {
+    primary: "#A29BFE",
+    primaryHover: "#6C5CE7",
+    secondary: "#00CEC9",
+    secondaryHover: "#00b5b0",
+    background: "#1A1A2E",
+    surface: "#16213E",
+    text: "#EAEAEA",
+    textLight: "#A0A0B0",
+    border: "#2A2A4A",
+    success: "#00B894",
+    error: "#E17055",
+    errorLight: "#FFEAA7",
+    gold: "#FDCB6E",
+    silver: "#B2BEC3",
+    bronze: "#E17055",
+  },
+  shadow: {
+    sm: "0 1px 4px rgba(0, 0, 0, 0.3)",
+    md: "0 2px 8px rgba(0, 0, 0, 0.4)",
+    lg: "0 4px 24px rgba(0, 0, 0, 0.5)",
+    dropdown: "0 4px 12px rgba(0, 0, 0, 0.5)",
+    toggle: "0 2px 12px rgba(0, 0, 0, 0.4)",
+  },
+};

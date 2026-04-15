@@ -21,7 +21,7 @@ const Card = styled.div`
   background: ${({ theme }) => theme.colors.surface};
   border-radius: ${({ theme }) => theme.borderRadius};
   padding: ${({ theme }) => theme.spacing.lg};
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  box-shadow: ${({ theme }) => theme.shadow.md};
   margin-bottom: ${({ theme }) => theme.spacing.md};
 `;
 
@@ -37,6 +37,7 @@ const QuestionNumber = styled.span`
 `;
 
 const QuestionText = styled.h3`
+  font-family: ${({ theme }) => theme.fontFamily.body};
   font-size: ${({ theme }) => theme.fontSizes.lg};
   color: ${({ theme }) => theme.colors.text};
   margin-bottom: ${({ theme }) => theme.spacing.md};
