@@ -5,6 +5,7 @@ import { useRouter } from "next/navigation";
 import styled from "styled-components";
 import PlayerSearch from "@/components/PlayerSearch";
 import TeamMemberChips from "@/components/TeamMemberChips";
+import AttributionFooter from "@/components/AttributionFooter";
 
 interface Player {
   id: number;
@@ -30,6 +31,7 @@ const Card = styled.div`
 `;
 
 const Title = styled.h1`
+  font-family: var(--font-heading), Georgia, serif;
   font-size: ${({ theme }) => theme.fontSizes.xxl};
   color: ${({ theme }) => theme.colors.primary};
   text-align: center;
@@ -198,6 +200,7 @@ export default function HomePage() {
 
         <LeaderboardLink href="/leaderboard">View Leaderboard</LeaderboardLink>
       </Card>
+      <AttributionFooter />
     </Container>
   );
 }

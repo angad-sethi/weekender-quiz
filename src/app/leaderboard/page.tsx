@@ -3,6 +3,7 @@
 import { useState, useEffect, useCallback } from "react";
 import styled from "styled-components";
 import LeaderboardTable from "@/components/LeaderboardTable";
+import AttributionFooter from "@/components/AttributionFooter";
 
 interface LeaderboardEntry {
   rank: number;
@@ -29,7 +30,6 @@ const Title = styled.h1`
   font-size: ${({ theme }) => theme.fontSizes.xxl};
   color: ${({ theme }) => theme.colors.primary};
   margin-bottom: ${({ theme }) => theme.spacing.xs};
-  letter-spacing: 0.04em;
 `;
 
 const Subtitle = styled.p`
@@ -130,6 +130,7 @@ export default function LeaderboardPage() {
       )}
 
       <HomeLink href="/">Back to Home</HomeLink>
+      <AttributionFooter />
     </Container>
   );
 }

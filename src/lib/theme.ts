@@ -1,8 +1,4 @@
 export const lightTheme = {
-  fontFamily: {
-    heading: 'var(--font-heading), Georgia, "Times New Roman", serif',
-    body: 'var(--font-body), Georgia, "Times New Roman", serif',
-  },
   colors: {
     primary: "#6C5CE7",
     primaryHover: "#5A4BD1",

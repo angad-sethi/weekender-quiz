@@ -1,55 +1,54 @@
 {
   "weekendOf": "2026-04-11",
   "title": "Good weekend - April 11",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
   "questions": [
     {
       "id": 1,
       "type": "text",
       "question": "Proverbially speaking, a rising tide lifts all ... what?",
       "answer": "Boats",
-      "acceptableAnswers": ["Boats", "boats", "All boats"]
+      "acceptableAnswers": []
     },
     {
       "id": 2,
       "type": "text",
       "question": "The dish spaghetti alla puttanesca originated in which Italian city?",
       "answer": "Naples",
-      "acceptableAnswers": ["Naples", "Napoli"]
+      "acceptableAnswers": ["Napoli"]
     },
     {
       "id": 3,
       "type": "text",
       "question": "What kind of marsupial was recently found among the plush toys in a Hobart Airport gift shop?",
       "answer": "Possum",
-      "acceptableAnswers": ["Possum", "possum", "A possum"]
+      "acceptableAnswers": []
     },
     {
       "id": 4,
       "type": "text",
       "question": "Rank by on-field team size, largest to smallest: rugby league, AFL, rugby union.",
       "answer": "AFL, rugby union, rugby league",
-      "acceptableAnswers": [
-        "AFL, rugby union, rugby league",
-        "AFL, Rugby Union, Rugby League"
-      ]
+      "acceptableAnswers": [],
+      "matchType": "set"
     },
     {
       "id": 5,
       "type": "text",
       "question": "Hemophobia is an intense and persistent fear of ... what?",
       "answer": "Blood",
-      "acceptableAnswers": ["Blood", "blood"]
+      "acceptableAnswers": []
     },
     {
       "id": 6,
       "type": "text",
       "question": "The film KPop Demon Hunters won Oscars for Best Animated Feature and which other category?",
       "answer": "Best Original Song",
-      "acceptableAnswers": [
-        "Best Original Song",
-        "best original song",
-        "Original Song"
-      ]
+      "acceptableAnswers": ["Original Song", "Song"]
     },
     {
       "id": 7,
@@ -67,103 +66,81 @@
       "type": "text",
       "question": "Fashion-wise, the power suit is synonymous with which decade?",
       "answer": "1980s",
-      "acceptableAnswers": [
-        "1980s",
-        "80s",
-        "the 80s",
-        "The 1980s",
-        "the 1980s",
-        "Eighties",
-        "eighties"
-      ]
+      "acceptableAnswers": ["80s", "Eighties"]
     },
     {
       "id": 9,
       "type": "text",
       "question": "The name of which Catholic prayer is also a colloquialism for a \"last-ditch\" desperate effort?",
       "answer": "Hail Mary",
-      "acceptableAnswers": ["Hail Mary", "hail mary", "A Hail Mary"]
+      "acceptableAnswers": []
     },
     {
       "id": 10,
       "type": "text",
       "question": "The Crowded House song Don't Dream It's Over includes the lyric, \"Try to catch the deluge in a ...\" [what?]",
       "answer": "Paper cup",
-      "acceptableAnswers": ["Paper cup", "paper cup", "papercup"]
+      "acceptableAnswers": ["papercup", "plastic cup"]
     },
     {
       "id": 11,
       "type": "text",
       "question": "Which word can precede fire, log and date to make new words?",
       "answer": "Back",
-      "acceptableAnswers": ["Back", "back"]
+      "acceptableAnswers": []
     },
     {
       "id": 12,
       "type": "text",
       "question": "Match the Communist-era car to the country: Lada, Škoda, Trabant; East Germany, Soviet Union, Czechoslovakia.",
       "answer": "Lada - Soviet Union, Škoda - Czechoslovakia, Trabant - East Germany",
-      "acceptableAnswers": [
-        "Lada - Soviet Union, Škoda - Czechoslovakia, Trabant - East Germany"
-      ]
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["lada", "soviet", "skoda", "czechoslovakia", "trabant", "east germany|germany"]
     },
     {
       "id": 13,
       "type": "text",
       "question": "Medically speaking, what is \"tundra tongue\"?",
       "answer": "The freezing of a person's tongue to a cold metal object, such as a lamp post",
-      "acceptableAnswers": [
-        "The freezing of a person's tongue to a cold metal object",
-        "Freezing tongue to a cold metal object",
-        "Tongue freezing to metal",
-        "Tongue stuck to metal",
-        "tongue stuck to a lamp post"
-      ]
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["tongue", "freez|stuck", "metal|pole|post|lamp"]
     },
     {
       "id": 14,
       "type": "text",
       "question": "What is the name of Mario's girlfriend in the original Donkey Kong game?",
       "answer": "Pauline",
-      "acceptableAnswers": ["Pauline", "pauline", "Lady", "The Lady"]
+      "acceptableAnswers": ["Lady"]
     },
     {
       "id": 15,
       "type": "text",
       "question": "An invasive species in Australia, fire ants are native to which continent?",
       "answer": "South America",
-      "acceptableAnswers": ["South America", "south america"]
+      "acceptableAnswers": []
     },
     {
       "id": 16,
       "type": "text",
       "question": "Who, in 1991, said that the Gulf War would be \"the mother of all battles\"?",
       "answer": "Saddam Hussein",
-      "acceptableAnswers": [
-        "Saddam Hussein",
-        "Saddam",
-        "saddam hussein",
-        "Hussein"
-      ]
+      "acceptableAnswers": ["Saddam", "Hussein"]
     },
     {
       "id": 17,
       "type": "text",
       "question": "What is the chemical symbol for potassium?",
       "answer": "K",
-      "acceptableAnswers": ["K", "k"]
+      "acceptableAnswers": []
     },
     {
       "id": 18,
       "type": "text",
       "question": "Which former athlete and politician was nicknamed \"The Lithgow Flash\"?",
       "answer": "Marjorie Jackson-Nelson",
-      "acceptableAnswers": [
-        "Marjorie Jackson-Nelson",
-        "Marjorie Jackson",
-        "marjorie jackson",
-        "Jackson-Nelson"
-      ]
+      "acceptableAnswers": ["Marjorie Jackson", "Jackson-Nelson"]
     },
     {
       "id": 19,
@@ -177,64 +154,45 @@
       "type": "text",
       "question": "Which musical instrument is nicknamed \"the Mississippi saxophone\"?",
       "answer": "Harmonica",
-      "acceptableAnswers": [
-        "Harmonica",
-        "harmonica",
-        "The harmonica",
-        "A harmonica"
-      ]
+      "acceptableAnswers": []
     },
     {
       "id": 21,
       "type": "text",
       "question": "Who said it? \"A woman must have money and a room of her own if she is to write fiction.\"",
       "answer": "Virginia Woolf",
-      "acceptableAnswers": ["Virginia Woolf", "virginia woolf", "Woolf"]
+      "acceptableAnswers": ["Woolf"]
     },
     {
       "id": 22,
       "type": "text",
       "question": "Geologically speaking, what are the three main types of rock?",
       "answer": "Igneous, sedimentary, metamorphic",
-      "acceptableAnswers": [
-        "Igneous, sedimentary, metamorphic",
-        "Igneous, Sedimentary, Metamorphic",
-        "Sedimentary, igneous, metamorphic",
-        "Metamorphic, igneous, sedimentary"
-      ]
+      "acceptableAnswers": [],
+      "matchType": "set"
     },
     {
       "id": 23,
       "type": "text",
       "question": "In which state or territory would you find the mining town of Mount Magnet?",
       "answer": "Western Australia",
-      "acceptableAnswers": ["Western Australia", "western australia", "WA"]
+      "acceptableAnswers": ["WA"]
     },
     {
       "id": 24,
       "type": "text",
       "question": "Which band's fans refer to themselves as \"Blockheads\"?",
       "answer": "New Kids on the Block",
-      "acceptableAnswers": [
-        "New Kids on the Block",
-        "NKOTB",
-        "New Kids On The Block"
-      ]
+      "acceptableAnswers": ["NKOTB"]
     },
     {
       "id": 25,
       "type": "text",
       "question": "What does the \"Moylan Arrow\" on a car dashboard point to?",
       "answer": "The side of the vehicle where the fuel filler cap (or charging port) is located",
-      "acceptableAnswers": [
-        "The side of the vehicle where the fuel filler cap is located",
-        "Which side the fuel cap is on",
-        "The fuel cap side",
-        "Fuel cap side",
-        "fuel filler cap",
-        "charging port side",
-        "The side of the car the fuel filler is on"
-      ]
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["fuel|petrol|gas|charg", "cap|filler|port", "side"]
     }
   ]
 }

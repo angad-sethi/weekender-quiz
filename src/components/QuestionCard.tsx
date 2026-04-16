@@ -37,7 +37,6 @@ const QuestionNumber = styled.span`
 `;
 
 const QuestionText = styled.h3`
-  font-family: ${({ theme }) => theme.fontFamily.body};
   font-size: ${({ theme }) => theme.fontSizes.lg};
   color: ${({ theme }) => theme.colors.text};
   margin-bottom: ${({ theme }) => theme.spacing.md};

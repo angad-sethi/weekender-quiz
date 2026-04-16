@@ -15,6 +15,8 @@ export interface TextQuestion {
   question: string;
   answer: string;
   acceptableAnswers: string[];
+  matchType?: "default" | "set" | "ordered" | "keywords";
+  keywords?: string[];
 }
 
 export type Question = MCQQuestion | TextQuestion;

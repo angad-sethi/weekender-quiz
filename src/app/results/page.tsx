@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import styled from "styled-components";
+import AttributionFooter from "@/components/AttributionFooter";
 
 interface QuestionResult {
   questionId: number;
@@ -13,11 +14,13 @@ interface QuestionResult {
 }
 
 interface QuizResults {
+  submissionId: number;
   teamName: string;
   score: number;
   totalQuestions: number;
   results: QuestionResult[];
   members: string[];
+  overrides?: Record<number, boolean>;
 }
 
 const Container = styled.div`
@@ -40,7 +43,6 @@ const ScoreTitle = styled.h1`
   font-size: ${({ theme }) => theme.fontSizes.xl};
   color: ${({ theme }) => theme.colors.text};
   margin-bottom: ${({ theme }) => theme.spacing.sm};
-  letter-spacing: 0.04em;
 `;
 
 const ScoreValue = styled.div`
@@ -61,10 +63,13 @@ const MembersList = styled.p`
   margin-top: ${({ theme }) => theme.spacing.sm};
 `;
 
-const ResultCard = styled.div<{ $correct: boolean }>`
+const ResultCard = styled.div<{ $correct: boolean; $hasOverride?: boolean }>`
+  position: relative;
   background: ${({ theme }) => theme.colors.surface};
   border-radius: ${({ theme }) => theme.borderRadiusSm};
   padding: ${({ theme }) => theme.spacing.md};
+  padding-bottom: ${({ $hasOverride, theme }) =>
+    $hasOverride ? `calc(${theme.spacing.md} + 40px)` : theme.spacing.md};
   margin-bottom: ${({ theme }) => theme.spacing.sm};
   border-left: 4px solid
     ${({ $correct, theme }) =>
@@ -81,7 +86,7 @@ const ResultQuestion = styled.p`
 
 const AnswerRow = styled.div`
   display: flex;
-  justify-content: space-between;
+  align-items: center;
   flex-wrap: wrap;
   gap: ${({ theme }) => theme.spacing.sm};
   font-size: ${({ theme }) => theme.fontSizes.sm};
@@ -94,6 +99,27 @@ const AnswerLabel = styled.span<{ $type: "user" | "correct" }>`
 
 const StatusIcon = styled.span<{ $correct: boolean }>`
   font-size: 1.2rem;
+`;
+
+const OverridePill = styled.button`
+  position: absolute;
+  right: ${({ theme }) => theme.spacing.md};
+  bottom: ${({ theme }) => theme.spacing.md};
+  background: none;
+  border: 1px solid ${({ theme }) => theme.colors.primary};
+  border-radius: 16px;
+  padding: 4px 12px;
+  font-size: ${({ theme }) => theme.fontSizes.sm};
+  color: ${({ theme }) => theme.colors.primary};
+  cursor: pointer;
+  font-weight: 600;
+  white-space: nowrap;
+  transition: background 0.15s, color 0.15s;
+
+  &:hover {
+    background: ${({ theme }) => theme.colors.primary};
+    color: white;
+  }
 `;
 
 const LeaderboardButton = styled.a`
@@ -147,14 +173,40 @@ export default function ResultsPage() {
 
   if (!data) return null;
 
-  const percentage = Math.round((data.score / data.totalQuestions) * 100);
+  const overrides = data.overrides ?? {};
+  const overrideCount = Object.values(overrides).filter(Boolean).length;
+  const adjustedScore = data.score + overrideCount;
+  const percentage = Math.round((adjustedScore / data.totalQuestions) * 100);
+  function toggleOverride(questionId: number) {
+    if (!data) return;
+
+    const next = { ...overrides };
+    if (next[questionId]) {
+      delete next[questionId];
+    } else {
+      next[questionId] = true;
+    }
+
+    const newOverrideCount = Object.values(next).filter(Boolean).length;
+    const newScore = data.score + newOverrideCount;
+
+    const updated = { ...data, overrides: next };
+    setData(updated);
+    sessionStorage.setItem("quizResults", JSON.stringify(updated));
+
+    fetch(`/api/submit/${data.submissionId}`, {
+      method: "PATCH",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ score: newScore }),
+    });
+  }
 
   return (
     <Container>
       <ScoreCard>
         <ScoreTitle>{data.teamName}</ScoreTitle>
         <ScoreValue>
-          {data.score} / {data.totalQuestions}
+          {adjustedScore} / {data.totalQuestions}
         </ScoreValue>
         <ScoreSub>{percentage}% correct</ScoreSub>
         {data.members?.length > 0 && (
@@ -162,27 +214,43 @@ export default function ResultsPage() {
         )}
       </ScoreCard>
 
-      {data.results.map((r) => (
-        <ResultCard key={r.questionId} $correct={r.isCorrect}>
-          <ResultQuestion>
-            <StatusIcon $correct={r.isCorrect}>
-              {r.isCorrect ? "\u2705" : "\u274C"}
-            </StatusIcon>{" "}
-            {r.question}
-          </ResultQuestion>
-          <AnswerRow>
-            <AnswerLabel $type="user">Your answer: {r.userAnswer}</AnswerLabel>
-            {!r.isCorrect && (
+      {data.results.map((r) => {
+        const isOverridden = !r.isCorrect && overrides[r.questionId];
+        const showCorrect = r.isCorrect || isOverridden;
+
+        return (
+          <ResultCard key={r.questionId} $correct={showCorrect} $hasOverride={!r.isCorrect}>
+            <ResultQuestion>
+              <StatusIcon $correct={showCorrect}>
+                {showCorrect ? "\u2705" : "\u274C"}
+              </StatusIcon>{" "}
+              {r.question}
+            </ResultQuestion>
+            <AnswerRow>
+              <AnswerLabel $type="user">
+                Your answer: {r.userAnswer}
+              </AnswerLabel>
               <AnswerLabel $type="correct">
                 Correct: {r.correctAnswer}
               </AnswerLabel>
+            </AnswerRow>
+            {!r.isCorrect && !isOverridden && (
+              <OverridePill onClick={() => toggleOverride(r.questionId)}>
+                Mark as correct
+              </OverridePill>
             )}
-          </AnswerRow>
-        </ResultCard>
-      ))}
+            {isOverridden && (
+              <OverridePill onClick={() => toggleOverride(r.questionId)}>
+                Undo
+              </OverridePill>
+            )}
+          </ResultCard>
+        );
+      })}
 
       <LeaderboardButton href="/leaderboard">View Leaderboard</LeaderboardButton>
       <HomeLink href="/">Play Again</HomeLink>
+      <AttributionFooter />
     </Container>
   );
 }

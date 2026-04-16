@@ -1,6 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import "./globals.css";
-import { playfairDisplay, lora } from "./fonts";
+import { playfairDisplay } from "./fonts";
 import StyledComponentsRegistry from "@/lib/registry";
 import ThemeClient from "@/lib/ThemeClient";
 
@@ -23,7 +23,7 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${playfairDisplay.variable} ${lora.variable}`}
+      className={playfairDisplay.variable}
       suppressHydrationWarning
     >
       <head>

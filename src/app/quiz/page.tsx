@@ -4,6 +4,7 @@ import { useState, useEffect, useCallback, Suspense } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import styled from "styled-components";
 import QuestionCard from "@/components/QuestionCard";
+import AttributionFooter from "@/components/AttributionFooter";
 
 interface ClientQuestion {
   id: number;
@@ -28,7 +29,6 @@ const QuizTitle = styled.h1`
   font-size: ${({ theme }) => theme.fontSizes.xl};
   color: ${({ theme }) => theme.colors.primary};
   margin-bottom: ${({ theme }) => theme.spacing.xs};
-  letter-spacing: 0.04em;
 `;
 
 const TeamInfo = styled.p`
@@ -204,6 +204,7 @@ function QuizContent() {
       <SubmitButton disabled={submitting} onClick={handleSubmit}>
         {submitting ? "Submitting..." : "Submit Answers"}
       </SubmitButton>
+      <AttributionFooter />
     </Container>
   );
 }

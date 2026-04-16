@@ -1,4 +1,10 @@
 import { Question } from "./questions";
+import {
+  normaliseAnswer,
+  fuzzyMatch,
+  tokenMatch,
+  keywordMatch,
+} from "./answer-matching";
 
 export interface QuestionResult {
   questionId: number;
@@ -22,10 +28,23 @@ export function scoreAnswers(
     if (q.type === "mcq") {
       isCorrect = userAnswer === q.answer;
     } else {
-      const normalised = userAnswer.toLowerCase();
-      const acceptable = q.acceptableAnswers.map((a) => a.toLowerCase());
-      isCorrect =
-        normalised === q.answer.toLowerCase() || acceptable.includes(normalised);
+      const normUser = normaliseAnswer(userAnswer);
+      const normAnswer = normaliseAnswer(q.answer);
+      const normAcceptable = q.acceptableAnswers.map(normaliseAnswer);
+
+      if (normUser === normAnswer || normAcceptable.includes(normUser)) {
+        isCorrect = true;
+      } else if (q.matchType === "set" || q.matchType === "ordered") {
+        isCorrect = tokenMatch(normUser, normAnswer, q.matchType === "ordered");
+      } else if (!q.matchType || q.matchType === "default") {
+        isCorrect =
+          fuzzyMatch(normUser, normAnswer) ||
+          normAcceptable.some((acc) => fuzzyMatch(normUser, acc));
+      }
+
+      if (!isCorrect && q.keywords && q.keywords.length > 0) {
+        isCorrect = keywordMatch(userAnswer, q.keywords);
+      }
     }
 
     if (isCorrect) score++;
