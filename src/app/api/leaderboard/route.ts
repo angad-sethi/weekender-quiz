@@ -1,10 +1,10 @@
 import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
-import { getWeekendKey } from "@/lib/weekend";
-import { loadQuiz } from "@/lib/questions";
+import { loadQuiz, getAvailableQuizDates } from "@/lib/questions";
 
 export async function GET(request: NextRequest) {
-  const weekend = request.nextUrl.searchParams.get("weekend") || getWeekendKey();
+  const weekend =
+    request.nextUrl.searchParams.get("weekend") || getAvailableQuizDates()[0];
 
   const submissions = await prisma.submission.findMany({
     where: { weekendKey: weekend },

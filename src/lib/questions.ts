@@ -80,6 +80,16 @@ export function loadQuiz(weekendKey?: string): QuizData {
   return quiz;
 }
 
+export function getAvailableQuizDates(): string[] {
+  const quizzesDir = path.join(process.cwd(), "data", "quizzes");
+  return fs
+    .readdirSync(quizzesDir)
+    .filter((f) => f.endsWith(".json"))
+    .map((f) => f.replace(".json", ""))
+    .sort()
+    .reverse();
+}
+
 export function getClientQuestions(weekendKey?: string): ClientQuestion[] {
   const quiz = loadQuiz(weekendKey);
   return quiz.questions.map((q) => {

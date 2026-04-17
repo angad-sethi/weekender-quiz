@@ -2,7 +2,6 @@ import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 import { loadQuiz } from "@/lib/questions";
 import { scoreAnswers } from "@/lib/scoring";
-import { getWeekendKey } from "@/lib/weekend";
 
 export async function POST(request: NextRequest) {
   const body = await request.json();
@@ -22,7 +21,8 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({ error: "Answers are required" }, { status: 400 });
   }
 
-  const weekendKey = getWeekendKey();
+  const quiz = loadQuiz();
+  const weekendKey = quiz.weekendOf;
 
   const existingSubmission = await prisma.submission.findUnique({
     where: { teamName_weekendKey: { teamName: teamName.trim(), weekendKey } },
@@ -34,7 +34,6 @@ export async function POST(request: NextRequest) {
     );
   }
 
-  const quiz = loadQuiz();
   const { score, results } = scoreAnswers(quiz.questions, answers);
 
   const submission = await prisma.submission.create({
