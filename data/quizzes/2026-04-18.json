@@ -1,0 +1,186 @@
+{
+  "weekendOf": "2026-04-18",
+  "title": "Good Weekend - April 18",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "Which are larger, alpacas or llamas?",
+      "options": ["Alpacas", "Llamas"],
+      "answer": "Llamas"
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "question": "The stapes (or stirrup) is the smallest bone in the human body. Where is it located?",
+      "answer": "The middle ear",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "question": "Which car manufacturer produces the Tucson, Elantra and Alcazar models?",
+      "answer": "Hyundai",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "question": "What was the original name of the board game Catan?",
+      "answer": "The Settlers of Catan",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "question": "In which sport might one compete in an individual medley?",
+      "answer": "Swimming",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "Which David Bowie music video was filmed in the outback town of Carinda, NSW, in 1983?",
+      "answer": "Let's Dance",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "question": "Which iconic Australian biscuit is named after the horse that won the 1958 Kentucky Derby?",
+      "answer": "Tim Tam",
+      "acceptableAnswers": ["TimTam"]
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "question": "A gerontocracy is a state or society governed by ... who?",
+      "answer": "Old people",
+      "acceptableAnswers": ["Elderly", "Elderly people", "Older people", "Aged"]
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "Which of these Best Actress Oscar-winners didn't win for playing a real person: Olivia Colman, Emma Stone or Meryl Streep?",
+      "options": ["Olivia Colman", "Emma Stone", "Meryl Streep"],
+      "answer": "Emma Stone"
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "question": "What four-letter Italian word is used when meeting or parting?",
+      "answer": "Ciao",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "question": "In which sport do teams consist of four blockers and one scoring \"jammer\"?",
+      "answer": "Roller derby",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "question": "Which country was last month named the world's happiest for the ninth year in a row?",
+      "answer": "Finland",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 13,
+      "type": "text",
+      "question": "The sleepwalking scene in Shakespeare's Macbeth is performed by which character?",
+      "answer": "Lady Macbeth",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "What is the vast majority of nitric acid used to make: explosives, fertiliser or synthetic polymers?",
+      "options": ["Explosives", "Fertiliser", "Synthetic polymers"],
+      "answer": "Fertiliser"
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "question": "What rhyme for \"cuff\" means a fit of petulance?",
+      "answer": "Huff",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "question": "Which country was officially known as the Dutch East Indies from 1800 to 1945?",
+      "answer": "Indonesia",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "Which is a word for the sound made when a cork is drawn from a bottle: cloop, ploog or skeup?",
+      "options": ["Cloop", "Ploog", "Skeup"],
+      "answer": "Cloop"
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "question": "Just Kids is a 2010 memoir by which US singer and poet?",
+      "answer": "Patti Smith",
+      "acceptableAnswers": ["Smith"]
+    },
+    {
+      "id": 19,
+      "type": "text",
+      "question": "Which sea mammal has the densest fur of any animal?",
+      "answer": "Sea otter",
+      "acceptableAnswers": ["Otter"]
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "question": "Which model SUV shares its name with a best-selling series of historical fantasy novels?",
+      "answer": "Outlander",
+      "acceptableAnswers": ["Mitsubishi Outlander"]
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "What is the currency of Türkiye: the euro, lari or lira?",
+      "options": ["Euro", "Lari", "Lira"],
+      "answer": "Lira"
+    },
+    {
+      "id": 22,
+      "type": "text",
+      "question": "Music producer Rick Beato hosts the YouTube series What Makes This Song ... what?",
+      "answer": "Great?",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "question": "What is the literal meaning of the Irish Gaelic word sláinte, often used as a drinking toast?",
+      "answer": "Health",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "question": "In Roman numerals, what number is represented by the letter \"M\"?",
+      "answer": "1000",
+      "acceptableAnswers": ["One thousand"]
+    },
+    {
+      "id": 25,
+      "type": "text",
+      "question": "When Tim Horan was voted Player of the Tournament at the 1999 Rugby World Cup, he was awarded a year's supply of which beverage?",
+      "answer": "Guinness",
+      "acceptableAnswers": []
+    }
+  ]
+}
