@@ -1,4 +1,5 @@
 import type { Metadata, Viewport } from "next";
+import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 import { playfairDisplay } from "./fonts";
 import StyledComponentsRegistry from "@/lib/registry";
@@ -42,6 +43,7 @@ export default function RootLayout({
         <StyledComponentsRegistry>
           <ThemeClient>{children}</ThemeClient>
         </StyledComponentsRegistry>
+        <Analytics />
       </body>
     </html>
   );
