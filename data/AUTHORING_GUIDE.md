@@ -1,6 +1,22 @@
 # Quiz Question Authoring Guide
 
-Use this guide when converting question/answer images into `questions.json`.
+Use this guide when converting question/answer images into `data/quizzes/YYYY-MM-DD.json`.
+
+## File Structure
+
+Quiz files live in `data/quizzes/` with one file per weekend:
+
+```
+data/quizzes/
+  2026-04-11.json
+  2026-04-18.json
+  2026-04-25.json
+```
+
+**Filename**: `YYYY-MM-DD.json` where the date is the Saturday of the weekend.
+The `weekendOf` field inside the file should match the filename.
+
+To add a new weekend's quiz, create a new file following this naming convention.
 
 ## Decision Tree
 

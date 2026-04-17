@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 import { getWeekendKey } from "@/lib/weekend";
+import { loadQuiz } from "@/lib/questions";
 
 export async function GET(request: NextRequest) {
   const weekend = request.nextUrl.searchParams.get("weekend") || getWeekendKey();
@@ -11,6 +12,16 @@ export async function GET(request: NextRequest) {
     include: { members: { include: { player: true } } },
   });
 
+  let title: string | null = null;
+  try {
+    const quiz = loadQuiz(weekend);
+    if (quiz.weekendOf === weekend) {
+      title = quiz.title;
+    }
+  } catch {
+    // Quiz file may not exist for old weekends
+  }
+
   const leaderboard = submissions.map((s, idx) => ({
     rank: idx + 1,
     teamName: s.teamName,
@@ -20,5 +31,5 @@ export async function GET(request: NextRequest) {
     createdAt: s.createdAt.toISOString(),
   }));
 
-  return NextResponse.json({ weekend, leaderboard });
+  return NextResponse.json({ weekend, title, leaderboard });
 }

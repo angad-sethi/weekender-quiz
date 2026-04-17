@@ -1,0 +1,194 @@
+{
+  "weekendOf": "2026-04-04",
+  "title": "Good Weekend - April 4",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "text",
+      "question": "Peter, Janet, Pam, Barbara, Jack, Colin and George comprise what fictional team of child detectives?",
+      "answer": "The Secret Seven",
+      "acceptableAnswers": ["Secret Seven", "Enid Blyton's The Secret Seven"]
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "question": "What is laid in alternating courses of \"stretchers\" and \"headers\"?",
+      "answer": "Bricks",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "question": "What is the top-selling flavour of Aeroplane Jelly?",
+      "answer": "Raspberry",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "question": "With which philosophy is the Roman statesman Seneca the Younger associated?",
+      "answer": "Stoicism",
+      "acceptableAnswers": ["Stoic"]
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "Do the statues (or moai) of Easter Island face inland or out to sea?",
+      "options": ["Inland", "Out to sea"],
+      "answer": "Inland"
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "Who plays Maggie in the 2023 reboot of the ABC TV sitcom Mother and Son?",
+      "answer": "Denise Scott",
+      "acceptableAnswers": ["Scott"]
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "question": "What is the meaning of the slang term \"catch these hands\"?",
+      "answer": "It is an invitation (joking or otherwise) to fight",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["invitation|threat|challenge|offer|want", "fight|punch|hit|brawl|fist"]
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "question": "Name four of the five events included in the ancient Olympic pentathlon.",
+      "answer": "Footrace, discus throw, javelin throw, long jump, wrestling",
+      "acceptableAnswers": [],
+      "matchType": "set"
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "question": "DXB is the IATA code for which international airport?",
+      "answer": "Dubai International Airport",
+      "acceptableAnswers": ["Dubai"]
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "question": "The soprano Deborah Cheetham Fraillon is the niece of which Australian country-music legend?",
+      "answer": "Jimmy Little",
+      "acceptableAnswers": ["Little"]
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "question": "Which is the only letter not to appear in the name of any US state?",
+      "answer": "Q",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "question": "Which famous couple met on November 9, 1966, at London's Indica Gallery?",
+      "answer": "John Lennon and Yoko Ono",
+      "acceptableAnswers": [],
+      "matchType": "set"
+    },
+    {
+      "id": 13,
+      "type": "text",
+      "question": "What does it mean if a horse is \"barn sour\"?",
+      "answer": "It doesn't want to leave its barn/stable/paddock, and is anxious to return to it",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["barn|stable|paddock|home", "leave|return|stay|anxious|reluctant"]
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "question": "Which veteran US television personality's name is an anagram of \"nerd amid late TV\"?",
+      "answer": "David Letterman",
+      "acceptableAnswers": ["Letterman"]
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "question": "How did Reuters first send news between Brussels, Belgium and Aachen, Germany?",
+      "answer": "Carrier pigeons",
+      "acceptableAnswers": ["Pigeons", "Homing pigeons"]
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "question": "What is the word, rhyming with \"little\", for the dot on top of a lower case 'i' or 'j'?",
+      "answer": "Tittle",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "Which of the following is not a Latin-American dance: the salsa, samba or tarantella?",
+      "options": ["Salsa", "Samba", "Tarantella"],
+      "answer": "Tarantella"
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "question": "By what name is \"looksmaxxer\" and TikTok influencer Braden Peters better known?",
+      "answer": "Clavicular",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 19,
+      "type": "text",
+      "question": "Which three South American countries does the equator pass through?",
+      "answer": "Ecuador, Colombia, Brazil",
+      "acceptableAnswers": [],
+      "matchType": "set"
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "question": "Cold Chisel guitarist Ian Moss had a 1989 hit with Tucker's ... what?",
+      "answer": "Daughter",
+      "acceptableAnswers": ["Tucker's Daughter"]
+    },
+    {
+      "id": 21,
+      "type": "text",
+      "question": "Which two Shakespeare characters are code words in the NATO phonetic alphabet?",
+      "answer": "Romeo, Juliet",
+      "acceptableAnswers": ["Juliett"],
+      "matchType": "set"
+    },
+    {
+      "id": 22,
+      "type": "text",
+      "question": "Corella, Nashi and Packham's Triumph are varieties of which fruit?",
+      "answer": "Pear",
+      "acceptableAnswers": ["Pears"]
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "question": "What is Pokémon a contraction of?",
+      "answer": "Pocket Monsters",
+      "acceptableAnswers": ["Poketto Monsuta"]
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "question": "Which sea is bounded by Bulgaria, Georgia, Romania, Russia, Turkey and Ukraine?",
+      "answer": "Black Sea",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 25,
+      "type": "text",
+      "question": "You'll Never Walk Alone is the anthem of which English Premier League football club?",
+      "answer": "Liverpool",
+      "acceptableAnswers": ["Liverpool FC", "Liverpool F.C."]
+    }
+  ]
+}

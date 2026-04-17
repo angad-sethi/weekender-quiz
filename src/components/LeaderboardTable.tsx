@@ -73,9 +73,7 @@ const TeamName = styled.div`
 const Members = styled.div`
   font-size: ${({ theme }) => theme.fontSizes.sm};
   color: ${({ theme }) => theme.colors.textLight};
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+  line-height: 1.4;
 `;
 
 const Score = styled.div`
@@ -102,7 +100,7 @@ const EmptyState = styled.p`
 
 export default function LeaderboardTable({ entries }: LeaderboardTableProps) {
   if (entries.length === 0) {
-    return <EmptyState>No submissions yet this weekend. Be the first!</EmptyState>;
+    return <EmptyState>No submissions for this weekend.</EmptyState>;
   }
 
   return (
