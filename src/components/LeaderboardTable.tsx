@@ -65,9 +65,8 @@ const TeamName = styled.div`
   font-weight: 700;
   font-size: ${({ theme }) => theme.fontSizes.md};
   color: ${({ theme }) => theme.colors.text};
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+  overflow-wrap: break-word;
+  word-break: break-word;
 `;
 
 const Members = styled.div`
