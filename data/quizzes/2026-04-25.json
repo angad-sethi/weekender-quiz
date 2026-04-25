@@ -1,0 +1,187 @@
+{
+  "weekendOf": "2026-04-25",
+  "title": "Good Weekend - April 25",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "text",
+      "question": "What is the third month of Australia's financial year?",
+      "answer": "September",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "question": "In the nursery rhyme, Three Blind Mice, who cut off the tails of the mice?",
+      "answer": "The farmer's wife",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "question": "The two main types of commercial grain crops are legumes and ... what?",
+      "answer": "Cereals",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "question": "Which fruit has been banned on Singapore's public transport system since 1988?",
+      "answer": "Durian",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "question": "In which videogame can players earn and spend \"V-Bucks\"?",
+      "answer": "Fortnite",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "Which late Bundjalung woman and broadcaster is credited with coining the term \"Welcome to Country\"?",
+      "answer": "Rhoda Roberts",
+      "acceptableAnswers": ["Roberts"]
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "question": "What was the name of the capital of Roman Britain, founded around 47–50 AD?",
+      "answer": "Londinium",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "question": "Named for the German mineralogist Friedrich Mohs, what does the Mohs scale measure?",
+      "answer": "Mineral hardness",
+      "acceptableAnswers": ["Hardness"]
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "question": "The TV series Bullpitt! was a spinoff from which other Australian sitcom?",
+      "answer": "Kingswood Country",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "question": "\"Sandgroper\" is slang for a person from which state or territory?",
+      "answer": "Western Australia",
+      "acceptableAnswers": ["WA"]
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "question": "What does Forrest call his shrimping business in the 1994 film Forrest Gump?",
+      "answer": "The Bubba Gump Shrimp Company",
+      "acceptableAnswers": ["Bubba Gump"]
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "question": "What word can be used for a ball game, a vine fruit and a verb meaning to crush?",
+      "answer": "Squash",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 13,
+      "type": "text",
+      "question": "The 1973 Oldsmobile Toronado was the first production car to be fitted with which safety device?",
+      "answer": "The airbag",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "question": "Which best-selling Haruki Murakami novel begins with the search for a lost cat?",
+      "answer": "The Wind-Up Bird Chronicle",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "True or false: our eardrums move in sync with our eyeballs?",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "question": "Which Swedish pop singer is often described as the \"Queen of Sad Bangers\"?",
+      "answer": "Robyn",
+      "acceptableAnswers": ["Robin Miriam Carlsson"]
+    },
+    {
+      "id": 17,
+      "type": "text",
+      "question": "The Empire State Building is an example of which architectural style?",
+      "answer": "Art deco",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "question": "Name three spices in classic Chinese five-spice powder.",
+      "answer": "Star anise, cloves, cinnamon, Sichuan pepper, fennel seeds",
+      "acceptableAnswers": [],
+      "matchType": "set"
+    },
+    {
+      "id": 19,
+      "type": "text",
+      "question": "Days We Left Behind is a recent single by which veteran rock musician?",
+      "answer": "Paul McCartney",
+      "acceptableAnswers": ["McCartney"]
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "question": "In which Middle Eastern country is Jeddah the second-largest city?",
+      "answer": "Saudi Arabia",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "Who was Barbra Streisand's first husband: ice-cream heir Richard Baskin, actor Elliott Gould or Canadian PM Pierre Trudeau?",
+      "options": ["Richard Baskin", "Elliott Gould", "Pierre Trudeau"],
+      "answer": "Elliott Gould"
+    },
+    {
+      "id": 22,
+      "type": "text",
+      "question": "Psoriasis primarily affects which bodily organ?",
+      "answer": "The skin",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "question": "A high-protein meal trend among Gen-Z gym-goers is called \"(what?) kibble\".",
+      "answer": "Boy",
+      "acceptableAnswers": ["Boy kibble"]
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "Was the exclamation point first called the point of admiration, recognition or wonderment?",
+      "options": ["Admiration", "Recognition", "Wonderment"],
+      "answer": "Admiration"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "In the oil industry, a \"barrel\" is approximately equal to how many litres: 49, 119 or 159?",
+      "options": ["49", "119", "159"],
+      "answer": "159"
+    }
+  ]
+}
