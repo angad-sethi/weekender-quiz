@@ -42,7 +42,12 @@ export function scoreAnswers(
           normAcceptable.some((acc) => fuzzyMatch(normUser, acc));
       }
 
-      if (!isCorrect && q.keywords && q.keywords.length > 0) {
+      if (
+        !isCorrect &&
+        q.keywords &&
+        q.keywords.length > 0 &&
+        q.matchType !== "exact"
+      ) {
         isCorrect = keywordMatch(userAnswer, q.keywords);
       }
     }

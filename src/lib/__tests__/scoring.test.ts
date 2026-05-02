@@ -153,6 +153,32 @@ describe("scoreAnswers — text (set, was ordered)", () => {
   });
 });
 
+describe("scoreAnswers — text (exact)", () => {
+  const stipplingQ: Question = {
+    id: 15,
+    type: "text",
+    question: "Art technique with dots?",
+    answer: "Stippling",
+    acceptableAnswers: [],
+    matchType: "exact",
+  };
+
+  it("exact spelling is correct", () => {
+    const { score: s } = score([stipplingQ], { "15": "Stippling" });
+    expect(s).toBe(1);
+  });
+
+  it("case-insensitive match after normalisation is correct", () => {
+    const { score: s } = score([stipplingQ], { "15": "stippling" });
+    expect(s).toBe(1);
+  });
+
+  it("typo is incorrect (no fuzzy match)", () => {
+    const { score: s } = score([stipplingQ], { "15": "Stipeling" });
+    expect(s).toBe(0);
+  });
+});
+
 describe("scoreAnswers — text (keywords)", () => {
   it("all keywords present in varied phrasing is correct", () => {
     const { score: s } = score([textKeywords], {

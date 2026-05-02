@@ -16,7 +16,7 @@ export interface TextQuestion {
   question: string;
   answer: string;
   acceptableAnswers: string[];
-  matchType?: "default" | "set" | "ordered" | "keywords";
+  matchType?: "default" | "set" | "ordered" | "keywords" | "exact";
   keywords?: string[];
 }
 

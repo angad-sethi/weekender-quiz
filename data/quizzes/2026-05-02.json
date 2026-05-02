@@ -1,0 +1,193 @@
+{
+  "weekendOf": "2026-05-02",
+  "title": "Good Weekend - May 2",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "text",
+      "question": "Which ocean is mostly surrounded by the belt of volcanoes called the Ring of Fire?",
+      "answer": "The Pacific Ocean",
+      "acceptableAnswers": ["Pacific Ocean", "Pacific"]
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "question": "If I am a spendthrift, am I extravagant or careful with money?",
+      "answer": "Extravagant",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "question": "In the context of online dating, what does \"LDR\" stand for?",
+      "answer": "Long-distance relationship",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "question": "Used as a dyestuff, madder is a shade of which colour?",
+      "answer": "Red",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "question": "What letter is replaced in \"Wordle\" to reveal its creator's surname?",
+      "answer": "The letter O is replaced by A to make Wardle",
+      "acceptableAnswers": [
+        "Wardle",
+        "O is replaced by A to make Wardle",
+        "Replace O with A to spell Wardle"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "In the song Nutbush City Limits, do Nutbush residents have a barbecue, party or picnic on Labour Day?",
+      "options": ["Barbecue", "Party", "Picnic"],
+      "answer": "Picnic"
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "question": "Casuarina, Nightcliff and Parap are suburbs of which Australian city?",
+      "answer": "Darwin",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "question": "Which plant product did Jean Nicot (1530-1604) introduce to France?",
+      "answer": "Tobacco",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "Would a pet axolotl most likely be kept in a cage, kennel or a tank?",
+      "options": ["A cage", "A kennel", "A tank"],
+      "answer": "A tank"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "True or false: the brain itself is incapable of feeling a direct sensation of pain?",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "question": "Which word translates as demain in French, mañana in Spanish, and domani in Italian?",
+      "answer": "Tomorrow",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "question": "Australian YouTuber Jonah Singer (aka Jojo) specialises in what kind of content?",
+      "answer": "ASMR (autonomous sensory meridian response) sound recordings",
+      "acceptableAnswers": ["ASMR", "Autonomous sensory meridian response"]
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "In which year did construction begin on the Berlin Wall: 1958, 1961 or 1964?",
+      "options": ["1958", "1961", "1964"],
+      "answer": "1961"
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "question": "What alcoholic spirit is traditionally used to make a classic highball?",
+      "answer": "Whisky",
+      "acceptableAnswers": ["Whiskey"]
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "question": "What, rhyming with \"rippling\", is an art technique using numerous small dots or specks?",
+      "answer": "Stippling",
+      "acceptableAnswers": [],
+      "matchType": "exact"
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "Which signature perfume did Miss Piggy launch in 1998: Kissy Kissy, Miss P, or Moi?",
+      "options": ["Kissy Kissy", "Miss P", "Moi"],
+      "answer": "Moi"
+    },
+    {
+      "id": 17,
+      "type": "text",
+      "question": "Which planet has a day that is longer than its year?",
+      "answer": "Venus",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "question": "What leather is typically made from the underside of an animal skin?",
+      "answer": "Suede",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 19,
+      "type": "text",
+      "question": "The cricketer Sophie Molineux currently plays for which state team?",
+      "answer": "Victoria",
+      "acceptableAnswers": ["Victorian cricket team"]
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "question": "In J. R. R. Tolkien's The Lord of the Rings, what kind of creature is Treebeard?",
+      "answer": "An Ent",
+      "acceptableAnswers": ["Ent"]
+    },
+    {
+      "id": 21,
+      "type": "text",
+      "question": "Which \"ology\" is the scientific study of the action and effects of drugs?",
+      "answer": "Pharmacology",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 22,
+      "type": "text",
+      "question": "Which Asian fashion icon designed Steve Jobs's signature black turtleneck?",
+      "answer": "Issey Miyake",
+      "acceptableAnswers": ["Miyake"]
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "question": "What has a basketball player done if they are penalised for \"travelling\"?",
+      "answer": "Illegally moved their feet while holding the ball without dribbling",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["dribbl", "ball", "feet|foot", "without|illegal|moved|move"]
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "question": "Which rock musical features the songs Suddenly, Seymour and Somewhere That's Green?",
+      "answer": "Little Shop of Horrors",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 25,
+      "type": "text",
+      "question": "In Greek mythology, the poet Orpheus was renowned for his skill on which musical instrument?",
+      "answer": "The lyre",
+      "acceptableAnswers": ["Lyre"]
+    }
+  ]
+}
