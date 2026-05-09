@@ -1,0 +1,187 @@
+{
+  "weekendOf": "2026-05-09",
+  "title": "Good Weekend - May 9",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "Are barnacles crustaceans or molluscs?",
+      "options": ["Crustaceans", "Molluscs"],
+      "answer": "Crustaceans"
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "question": "What is the background colour of the Guzman y Gomez logo?",
+      "answer": "Yellow",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "question": "Which mineral is the most common form of silicon dioxide?",
+      "answer": "Quartz",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "question": "In ancient Greece, Boreas, Notus, Eurus and Zephyrus comprised the four chief… what?",
+      "answer": "Wind gods",
+      "acceptableAnswers": ["Winds", "Gods of wind", "Wind deities"]
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "question": "The films Out of Sight (1998) and 3:10 to Yuma (1957/2007) are based on stories by which writer?",
+      "answer": "Elmore Leonard",
+      "acceptableAnswers": ["Leonard"]
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "When viewed from above, which South American capital city's layout has been compared to a bird or aeroplane?",
+      "answer": "Brasília",
+      "acceptableAnswers": ["Brasilia"]
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "question": "Charlie Cameron is a forward for which AFL team?",
+      "answer": "Brisbane Lions",
+      "acceptableAnswers": ["Lions", "Brisbane"]
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "question": "The late Moya Brennan was best known as vocalist and harpist with which Irish band?",
+      "answer": "Clannad",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "question": "Which Australian capital city was named after a British prime minister?",
+      "answer": "Melbourne",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "question": "London's Savile Row is associated with which skilled trade?",
+      "answer": "Bespoke tailoring",
+      "acceptableAnswers": ["Tailoring", "Suit making", "Suits"]
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "question": "What would Seinfeld's George Costanza drape himself in \"if it were socially acceptable\"?",
+      "answer": "Velvet",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "question": "The sister of my parent's parent is what relation to me?",
+      "answer": "Great-aunt",
+      "acceptableAnswers": ["Great aunt", "Grand aunt", "Grand-aunt"]
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "In a traditional letter, does the sender's address go on the top left or top right of the page?",
+      "options": ["Top left", "Top right"],
+      "answer": "Top right"
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "True or false: Australia's federal Parliament House has a bomb shelter?",
+      "options": ["True", "False"],
+      "answer": "False"
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "question": "In Russia, water for tea is traditionally boiled in what metal container starting with \"s\"?",
+      "answer": "Samovar",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "question": "What does the workplace acronym SOP stand for?",
+      "answer": "Standard operating procedure",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 17,
+      "type": "text",
+      "question": "Which two baked goods combine to make a cruffin?",
+      "answer": "Croissant, muffin",
+      "acceptableAnswers": ["Croissant and muffin", "Muffin and croissant"],
+      "matchType": "set"
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "question": "In which century was composer Maurice Ravel's Bolero first performed?",
+      "answer": "The 20th century",
+      "acceptableAnswers": ["20th", "20th century", "Twentieth century", "Twentieth"]
+    },
+    {
+      "id": 19,
+      "type": "text",
+      "question": "The Dead Undead was the working title for which 1897 novel?",
+      "answer": "Dracula",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "question": "Hartley High School is the setting for which comedy-drama TV series?",
+      "answer": "Heartbreak High",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 21,
+      "type": "text",
+      "question": "What is the meaning of the Swahili phrase, \"Hakuna matata\"?",
+      "answer": "No worries",
+      "acceptableAnswers": ["No troubles", "No problems", "No trouble", "No worry"]
+    },
+    {
+      "id": 22,
+      "type": "text",
+      "question": "Witchetty grubs are mostly which colour?",
+      "answer": "White",
+      "acceptableAnswers": ["Creamy-white", "Creamy white", "Off-white", "Off white"]
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "question": "In the northern hemisphere, the Persian New Year (or Nowruz) begins in which season?",
+      "answer": "Spring",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "If I'm \"skiving\", am I scaling a fish, dodging a duty or skateboarding?",
+      "options": ["Scaling a fish", "Dodging a duty", "Skateboarding"],
+      "answer": "Dodging a duty"
+    },
+    {
+      "id": 25,
+      "type": "text",
+      "question": "What is the only English word ending in \"mt\"?",
+      "answer": "Dreamt",
+      "acceptableAnswers": []
+    }
+  ]
+}
