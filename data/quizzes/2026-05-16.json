@@ -1,0 +1,190 @@
+{
+  "weekendOf": "2026-05-16",
+  "title": "Good Weekend - May 16",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "text",
+      "question": "Which everyday object was originally called the \"hookless fastener\"?",
+      "answer": "The zip",
+      "acceptableAnswers": ["Zip", "Zipper"]
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "question": "Which country's flag depicts an eagle eating a snake?",
+      "answer": "Mexico",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "question": "Which US band's songs are performed by the Australian tribute acts Everlong, In Your Honour and Something from Nothing?",
+      "answer": "Foo Fighters",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "question": "Dusky, Southern Sand and Tiger are species of which game and table fish?",
+      "answer": "Flathead",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "question": "What is the ratio of oil to vinegar in a classic French vinaigrette?",
+      "answer": "3:1",
+      "acceptableAnswers": ["3 to 1", "Three to one"]
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "Which 2022 film stars Paul Mescal and Frankie Corio as father and daughter?",
+      "answer": "Aftersun",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "question": "Which current federal minister's name is an anagram of \"a talky haggler\"?",
+      "answer": "Katy Gallagher",
+      "acceptableAnswers": ["Gallagher"]
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "question": "Which bird-themed name is given to three consecutive strikes in tenpin bowling?",
+      "answer": "Turkey",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "question": "In 1785, King Louis XVI of France decreed that all handkerchiefs should be… what?",
+      "answer": "Square",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "question": "In which year did Russia launch its full-scale invasion of Ukraine?",
+      "answer": "2022",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "question": "What does the HVAC in \"HVAC technician\" stand for?",
+      "answer": "Heating, ventilation and air-conditioning",
+      "acceptableAnswers": ["Heating ventilation and air conditioning"],
+      "matchType": "keywords",
+      "keywords": ["heat", "ventilat", "air"]
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "Can horses vomit?",
+      "options": ["Yes", "No"],
+      "answer": "No"
+    },
+    {
+      "id": 13,
+      "type": "text",
+      "question": "Which Shakespeare character's daughters are named Goneril, Regan and Cordelia?",
+      "answer": "King Lear",
+      "acceptableAnswers": ["Lear"]
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "question": "What is the largest and longest nerve in the body?",
+      "answer": "The sciatic nerve",
+      "acceptableAnswers": ["Sciatic nerve", "Sciatic"]
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "question": "When Meatloaf sang, \"Two out of three ain't bad\", what were his three criteria?",
+      "answer": "He wanted you, needed you, and loved you",
+      "acceptableAnswers": [],
+      "matchType": "set",
+      "keywords": ["want", "need", "love"]
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "question": "Lemons, limes and oranges belong to which plant genus?",
+      "answer": "Citrus",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "Which country has the most churches per square mile in the world: Jamaica, Malta or the Philippines?",
+      "options": ["Jamaica", "Malta", "The Philippines"],
+      "answer": "Jamaica"
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "question": "Edward Lear's Book of Nonsense (1846) popularised which poetic form?",
+      "answer": "The limerick",
+      "acceptableAnswers": ["Limerick", "Limericks"]
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "Does \"Tivoli circuit\" relate to electronics, entertainment or railroads?",
+      "options": ["Electronics", "Entertainment", "Railroads"],
+      "answer": "Entertainment"
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "question": "To genuflect is to bend which body part?",
+      "answer": "The knee",
+      "acceptableAnswers": ["Knee"]
+    },
+    {
+      "id": 21,
+      "type": "text",
+      "question": "Which instrument did late radio host James Valentine play with the bands Jo Jo Zep, Models, and Absent Friends?",
+      "answer": "Saxophone",
+      "acceptableAnswers": ["Sax"]
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "Which isn't a word for a small group of trees: copse, grove or vale?",
+      "options": ["Copse", "Grove", "Vale"],
+      "answer": "Vale"
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "question": "In 1912, Harriet Quimby became the first woman to fly solo across which body of water?",
+      "answer": "The English Channel",
+      "acceptableAnswers": ["English Channel"]
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "question": "Ferritin, a protein produced by almost all living organisms, stores which element?",
+      "answer": "Iron",
+      "acceptableAnswers": ["Fe"]
+    },
+    {
+      "id": 25,
+      "type": "text",
+      "question": "Which Australian professional soccer club is known for winning the 2023-24 \"treble\" (Premiership, Championship and AFC Cup)?",
+      "answer": "Central Coast Mariners FC",
+      "acceptableAnswers": ["Central Coast Mariners", "Mariners", "CCM"]
+    }
+  ]
+}
