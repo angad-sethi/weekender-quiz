@@ -1,0 +1,193 @@
+{
+  "weekendOf": "2026-05-23",
+  "title": "Good Weekend - May 23",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "Do cats have more toes on their front or back paws?",
+      "options": ["Front paws", "Back paws"],
+      "answer": "Front paws"
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "question": "Name two of the four people mentioned in the Kenny Loggins song Footloose.",
+      "answer": "Jack, Louise, Marie, Milo",
+      "acceptableAnswers": [],
+      "matchType": "set"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "Which word isn't an acronym: laser, scuba or velcro?",
+      "options": ["Laser", "Scuba", "Velcro"],
+      "answer": "Velcro"
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "question": "Andy Warhol said, \"I used to have the same lunch every day for 20 years.\" What was it?",
+      "answer": "Campbell's soup",
+      "acceptableAnswers": ["Campbells soup", "Soup"]
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "question": "In internet book clubs, what does DNF stand for?",
+      "answer": "Did not finish",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["did|do", "not", "finish"]
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "Which band won Song of the Year at the 2026 APRA Awards for a second year running?",
+      "answer": "Amyl and the Sniffers",
+      "acceptableAnswers": ["Amyl & the Sniffers"]
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "question": "Ljubljana is the capital of which central European country?",
+      "answer": "Slovenia",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "Which of these is a Scottish folk dance: Bon Odori, Hambone, Strip the Willow?",
+      "options": ["Bon Odori", "Hambone", "Strip the Willow"],
+      "answer": "Strip the Willow"
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "question": "The rhomboid muscles connect the vertebrae with which bones?",
+      "answer": "The scapula (shoulder blades)",
+      "acceptableAnswers": ["Scapula", "Shoulder blades", "Scapulae"]
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "question": "In which 2000 film does George Clooney's character use Dapper Dan hair pomade?",
+      "answer": "O Brother, Where Art Thou?",
+      "acceptableAnswers": ["O Brother Where Art Thou"]
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "question": "Which country's sovereign sea territories include the Dardanelles and Bosphorus Straits?",
+      "answer": "Türkiye",
+      "acceptableAnswers": ["Turkey", "Turkiye"]
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "question": "Match the dog to the book: Buck, Skulker, Pongo; Wuthering Heights, The Hundred and One Dalmatians, The Call of the Wild.",
+      "answer": "Buck (The Call of the Wild), Skulker (Wuthering Heights), Pongo (The Hundred and One Dalmatians)",
+      "acceptableAnswers": [],
+      "matchType": "ordered"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "Is the human circulatory system approximately 100, 10,000 or 100,000 kilometres long?",
+      "options": ["100", "10,000", "100,000"],
+      "answer": "100,000"
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "question": "Which two NRL teams have birds in their names?",
+      "answer": "Sydney Roosters, Manly-Warringah Sea Eagles",
+      "acceptableAnswers": ["Roosters, Sea Eagles"],
+      "matchType": "set"
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "question": "Who has replaced Aaron Chen as the assistant on ABC TV game show Guy Montgomery's Guy Mont-Spelling Bee?",
+      "answer": "Sam Campbell",
+      "acceptableAnswers": ["Campbell"]
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "question": "Used by molluscs to coat the interior of their shells, nacre is more commonly known as… what?",
+      "answer": "Mother-of-pearl",
+      "acceptableAnswers": ["Mother of pearl"]
+    },
+    {
+      "id": 17,
+      "type": "text",
+      "question": "In which year did Hotmail launch, Prince Charles and Diana, Princess of Wales, divorce and the Spice Girls release the song Wannabe?",
+      "answer": "1996",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "question": "What does the c represent in Einstein's equation E=mc²?",
+      "answer": "The speed of light in a vacuum",
+      "acceptableAnswers": ["Speed of light", "The speed of light"]
+    },
+    {
+      "id": 19,
+      "type": "text",
+      "question": "In which country is the Nagarjuna Sagar Dam, the world's tallest masonry dam?",
+      "answer": "India",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "Which typically has the most strings: a banjo, guitar or mandolin?",
+      "options": ["Banjo", "Guitar", "Mandolin"],
+      "answer": "Mandolin"
+    },
+    {
+      "id": 21,
+      "type": "text",
+      "question": "Which annual event began in 1903 to promote L'Auto, a sports newspaper?",
+      "answer": "The Tour de France",
+      "acceptableAnswers": ["Tour de France"]
+    },
+    {
+      "id": 22,
+      "type": "text",
+      "question": "Which is the lightest element in the periodic table?",
+      "answer": "Hydrogen",
+      "acceptableAnswers": ["H"]
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "question": "What is unique about Vincent Van Gogh's 1888 painting, The Red Vineyards near Arles?",
+      "answer": "It was the only one of his works sold during his lifetime",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["only", "sold|sale", "lifetime|alive|living"]
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "question": "Which English city is named for its Roman-built spa facilities?",
+      "answer": "Bath",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 25,
+      "type": "text",
+      "question": "Which US war film is loosely based on Joseph Conrad's novella, Heart of Darkness?",
+      "answer": "Apocalypse Now",
+      "acceptableAnswers": []
+    }
+  ]
+}
