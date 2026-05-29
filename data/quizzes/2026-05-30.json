@@ -1,0 +1,186 @@
+{
+  "weekendOf": "2026-05-30",
+  "title": "Good Weekend - May 30",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "text",
+      "question": "K'gari (Fraser Island) lies off the coast of which Australian state?",
+      "answer": "Queensland",
+      "acceptableAnswers": ["QLD"]
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "question": "What is double pneumonia?",
+      "answer": "Pneumonia in both lungs",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "question": "Which is the only country ending with the letter \"K\"?",
+      "answer": "Denmark",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "question": "Olivia Rodrigo's upcoming album is titled You Seem Pretty [what?] for a Girl So in Love.",
+      "answer": "Sad",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "question": "In September 2025, which fast-food chain had the most branches in Australia?",
+      "answer": "Subway",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "What is the maximum number of points that can be scored per wave in professional (WSL) surfing?",
+      "answer": "10",
+      "acceptableAnswers": ["Ten"]
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "Which is wider: Australia or the moon?",
+      "options": ["Australia", "The moon"],
+      "answer": "Australia"
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "question": "The name of which hearty Italian soup translates as \"that which is served\" in English?",
+      "answer": "Minestrone",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "Where was Pilates developed: a Belgian health spa, British prisoner-of-war camp or German Air Force Academy?",
+      "options": ["A Belgian health spa", "British prisoner-of-war camp", "German Air Force Academy"],
+      "answer": "British prisoner-of-war camp"
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "question": "Which fictional island in Gulliver's Travels is inhabited by people only six inches (15 centimetres) tall?",
+      "answer": "Lilliput",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "question": "What kind of plants are elkhorn, maidenhair and bird's-nest?",
+      "answer": "Ferns",
+      "acceptableAnswers": ["Fern"]
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "question": "How much does it cost to post a standard postcard within Australia?",
+      "answer": "$1.70",
+      "acceptableAnswers": ["1.70", "1.7"]
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "True or false: Akubra hats are made from kangaroo pelts?",
+      "options": ["True", "False"],
+      "answer": "False"
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "question": "What part of the atom has a negative charge?",
+      "answer": "The electron",
+      "acceptableAnswers": ["Electron"]
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "question": "Which three films comprise director Baz Luhrmann's \"Red Curtain Trilogy\"?",
+      "answer": "Strictly Ballroom, Romeo + Juliet, Moulin Rouge!",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "question": "What is the capacity of a standard bottle of wine in millilitres?",
+      "answer": "750ml",
+      "acceptableAnswers": ["750", "750 ml"]
+    },
+    {
+      "id": 17,
+      "type": "text",
+      "question": "Which composer's Symphony No. 94 is known as the \"Surprise\" Symphony?",
+      "answer": "Joseph Haydn",
+      "acceptableAnswers": ["Haydn"]
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "Which of these New Zealand birds can fly: the kea, kākāpō or kiwi?",
+      "options": ["The kea", "The kākāpō", "The kiwi"],
+      "answer": "The kea"
+    },
+    {
+      "id": 19,
+      "type": "text",
+      "question": "What word for a small fee to use a road is also a verb meaning to sound a bell?",
+      "answer": "Toll",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "question": "Which crime novel was the most-borrowed book from Brisbane libraries in 2025?",
+      "answer": "We Solve Murders",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 21,
+      "type": "text",
+      "question": "The AFLW (Women's) season begins in which month?",
+      "answer": "August",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 22,
+      "type": "text",
+      "question": "The alleged last words of which Greek mathematician were, \"Do not disturb my circles\"?",
+      "answer": "Archimedes",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "question": "In humans, what is the common name for the cuspids or eye teeth?",
+      "answer": "Canines",
+      "acceptableAnswers": ["Canine"]
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "question": "In which country are the cities of Byblos, Tripoli and Tyre?",
+      "answer": "Lebanon",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 25,
+      "type": "text",
+      "question": "The steepest angle at which a sloping surface of loose material remains stable without sliding is called the angle of… what?",
+      "answer": "Repose",
+      "acceptableAnswers": []
+    }
+  ]
+}
