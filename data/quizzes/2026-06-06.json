@@ -1,0 +1,186 @@
+{
+  "weekendOf": "2026-06-06",
+  "title": "Good Weekend - June 6",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "text",
+      "question": "The Scottish sport of curling is typically played on a sheet of… what?",
+      "answer": "Ice",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "question": "Born around 2609 BC, Khufu (or Cheops) commissioned which famous structure?",
+      "answer": "The Great Pyramid of Giza",
+      "acceptableAnswers": ["Great Pyramid", "Pyramid of Giza", "Great Pyramid of Cheops"]
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "question": "According to the 2026 Happy City Index, which Victorian city was ranked Australia's happiest and 16th happiest globally?",
+      "answer": "Ballarat",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "question": "Which Dutch cruise ship was the site of a recent outbreak of hantavirus infection?",
+      "answer": "MV Hondius",
+      "acceptableAnswers": ["Hondius"]
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "question": "Dogs primarily see the world in shades of grey and which two primary colours?",
+      "answer": "Blue and yellow",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "According to the old jingle, who \"… picks the fruit that goes to Cottee's, to make the cordial that I like best\"?",
+      "answer": "My dad",
+      "acceptableAnswers": ["Dad"]
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "Is the structure of a DNA molecule a single, double or triple helix?",
+      "options": ["Single", "Double", "Triple"],
+      "answer": "Double"
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "question": "Which Arabic word is used in English to denote civil attire (as distinct from a uniform)?",
+      "answer": "Mufti",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "question": "A first experience of anything difficult can be described as a baptism of… what?",
+      "answer": "Fire",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "question": "Which character in the Star Wars universe is nicknamed \"Baby Yoda\" by fans?",
+      "answer": "Grogu",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "question": "What are the two official languages of Malta?",
+      "answer": "Maltese and English",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "question": "In the world of tech, what does \"voicepilled\" mean?",
+      "answer": "To have the realisation that AI-powered dictation is more natural and efficient than using a keyboard",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 13,
+      "type": "text",
+      "question": "Kamay is the Dharawal name for which historically significant stretch of NSW coast?",
+      "answer": "Botany Bay",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "question": "In US politics, the Republican Party is also known as the GOP, meaning… what?",
+      "answer": "Grand Old Party",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "question": "Imperial, Afourer and Sumo are all varieties of which fruit?",
+      "answer": "Mandarin",
+      "acceptableAnswers": ["Mandarins"]
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "question": "What controversial announcement did World Rugby make last month regarding women's rugby union?",
+      "answer": "The introduction of smaller rugby balls for women",
+      "acceptableAnswers": ["Smaller balls", "Smaller rugby balls"]
+    },
+    {
+      "id": 17,
+      "type": "text",
+      "question": "Which of the Five Pillars of Islam often requires a passport?",
+      "answer": "Hajj",
+      "acceptableAnswers": ["The Hajj"]
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "question": "What is a noctivagant prone to do?",
+      "answer": "Roam about at night",
+      "acceptableAnswers": ["Wander at night", "Roam at night"]
+    },
+    {
+      "id": 19,
+      "type": "text",
+      "question": "Which Australian band's hits include Sweet Disposition (2008) and Love Lost (2009)?",
+      "answer": "The Temper Trap",
+      "acceptableAnswers": ["Temper Trap"]
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "What was Alexander Fleming's original name for penicillin: \"Fleming's cure-all\", \"the good stuff\" or \"mould juice\"?",
+      "options": ["Fleming's cure-all", "The good stuff", "Mould juice"],
+      "answer": "Mould juice"
+    },
+    {
+      "id": 21,
+      "type": "text",
+      "question": "Kampala is the capital of which East African country?",
+      "answer": "Uganda",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "True or false: jellyfish are a type of plankton?",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "In which country did Karl Marx spend most of his life: Belgium, England or Germany?",
+      "options": ["Belgium", "England", "Germany"],
+      "answer": "England"
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "question": "Which alcoholic beverage is typically used in an Old Fashioned cocktail?",
+      "answer": "Whiskey",
+      "acceptableAnswers": ["Whisky", "Bourbon", "Rye whiskey", "Rye"]
+    },
+    {
+      "id": 25,
+      "type": "text",
+      "question": "\"Talōfa\" is a greeting in which language?",
+      "answer": "Samoan",
+      "acceptableAnswers": []
+    }
+  ]
+}
