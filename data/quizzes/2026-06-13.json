@@ -1,0 +1,191 @@
+{
+  "weekendOf": "2026-06-13",
+  "title": "Good Weekend - June 13",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "text",
+      "question": "\"J'adore\" is a perfume from which fashion house?",
+      "answer": "Dior",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "question": "Which two countries start with \"T\" and end in \"… stan\"?",
+      "answer": "Turkmenistan and Tajikistan",
+      "acceptableAnswers": [],
+      "matchType": "set"
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "question": "What colour is the head, throat and abdomen of the rainbow lorikeet?",
+      "answer": "Deep-blue",
+      "acceptableAnswers": ["Violet-blue", "Deep blue", "Violet blue", "Blue"]
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "question": "In which ABC TV series does Deborah Mailman play independent MP Alex Irving?",
+      "answer": "Total Control",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "question": "What is the outermost layer of the Earth called?",
+      "answer": "The crust",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "In computing, what does the \"IP\" in IP address stand for?",
+      "answer": "Internet protocol",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "question": "Which Impressionist painter said, \"Perhaps flowers are the reason why I am an artist\"?",
+      "answer": "Claude Monet",
+      "acceptableAnswers": ["Monet"]
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "question": "According to Gen Z slang, what is a \"finsta\"?",
+      "answer": "A contraction of \"fake\" and \"Insta\", a finsta is a secondary Instagram account set up for private use",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["fake", "insta", "secondary|private", "account"]
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "question": "The Matterhorn is on the border of which two countries?",
+      "answer": "Italy and Switzerland",
+      "acceptableAnswers": [],
+      "matchType": "set"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "Did Paul McCartney meet John Lennon at a church fête, football game or school dance?",
+      "options": ["Church fête", "Football game", "School dance"],
+      "answer": "Church fête"
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "question": "Which fruit juice is used in a Cuba libre cocktail?",
+      "answer": "Lime juice",
+      "acceptableAnswers": ["Lime"]
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "question": "Name three of the five categories in the arts-based \"Pentathlon of the Muses\", a feature of the Olympic Games from 1912 to 1948.",
+      "answer": "Architecture, literature, music, painting and sculpture",
+      "acceptableAnswers": [],
+      "matchType": "set"
+    },
+    {
+      "id": 13,
+      "type": "text",
+      "question": "What is the brand name of the caramelised, spiced biscuits produced by Belgian company Lotus Bakeries?",
+      "answer": "Biscoff",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "question": "In the 1967 film Cool Hand Luke, Paul Newman's character wins a bet by eating how many hard-boiled eggs?",
+      "answer": "50",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "question": "Which Caribbean capital city's airport has the IATA code KIN?",
+      "answer": "Kingston",
+      "acceptableAnswers": ["Kingston, Jamaica"]
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "What is the minimum age to take the official, supervised Mensa admission test in Australia: 10, 16 or 21?",
+      "options": ["10", "16", "21"],
+      "answer": "10"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "True or false: buckwheat is a type of wheat?",
+      "options": ["True", "False"],
+      "answer": "False"
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "question": "In which 1667 epic poem does Satan declare, \"Better to reign in Hell than serve in Heaven\"?",
+      "answer": "Paradise Lost",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "Is a \"stimpmeter\" used in baseball, cricket or golf?",
+      "options": ["Baseball", "Cricket", "Golf"],
+      "answer": "Golf"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "Which is the most commonly used noun in the English language: day, people or time?",
+      "options": ["Day", "People", "Time"],
+      "answer": "Time"
+    },
+    {
+      "id": 21,
+      "type": "text",
+      "question": "What have I sneezed into if I've sneezed into my \"chelidon\"?",
+      "answer": "The inside of my elbow",
+      "acceptableAnswers": ["Elbow", "Cubital fossa", "Inside of the elbow", "Inner elbow"]
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "Is the character Ross Geller, played by David Schwimmer in the TV sitcom Friends, an archeologist, ornithologist or paleontologist?",
+      "options": ["Archeologist", "Ornithologist", "Paleontologist"],
+      "answer": "Paleontologist"
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "question": "Mycology is the study of … what?",
+      "answer": "Fungi",
+      "acceptableAnswers": ["Fungus"]
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "question": "A 2025 single by Melbourne-based singer-songwriter Ecca Vandal is Cruising to … what?",
+      "answer": "Self Soothe",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 25,
+      "type": "text",
+      "question": "Thanatophobia is the persistent fear of … what?",
+      "answer": "Death",
+      "acceptableAnswers": ["Dying", "Death or dying"]
+    }
+  ]
+}
