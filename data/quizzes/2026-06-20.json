@@ -1,0 +1,193 @@
+{
+  "weekendOf": "2026-06-20",
+  "title": "Good Weekend - June 20",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "text",
+      "question": "What word can mean a tool for breaking up rock and a guitar plectrum?",
+      "answer": "Pick",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "question": "What is the second month of autumn in Australia?",
+      "answer": "April",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "question": "Under FIBA rules, basketball games are played in four quarters of how many minutes each?",
+      "answer": "10",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "question": "What, starting with \"R\", is the largest state in India?",
+      "answer": "Rajasthan",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "question": "The TV series Rivals is based on novels by which British author?",
+      "answer": "Jilly Cooper",
+      "acceptableAnswers": ["Cooper"]
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "Which fish is considered to be the apex predator of the Murray-Darling River system?",
+      "answer": "The Murray cod",
+      "acceptableAnswers": ["Murray cod"]
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "question": "Who sings the theme song for 007 First Light, the latest instalment in the James Bond video-game franchise?",
+      "answer": "Lana Del Rey",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "question": "According to photo etiquette, what is \"hover hand\"?",
+      "answer": "Positioning your arm around someone without making contact",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["arm", "around", "without", "contact|touch"]
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "question": "Who played the father of tennis legends Venus and Serena Williams in the 2021 film King Richard?",
+      "answer": "Will Smith",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "question": "The name of which bite-sized French cakes translates to \"little oven\" in English?",
+      "answer": "Petits fours",
+      "acceptableAnswers": ["Petit four", "Petit fours", "Petits four"]
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "question": "Which metallic element has the symbol Cr?",
+      "answer": "Chromium",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "question": "Which two countries share the world's longest international land border?",
+      "answer": "Canada and the United States",
+      "acceptableAnswers": [],
+      "matchType": "set"
+    },
+    {
+      "id": 13,
+      "type": "text",
+      "question": "The name of which watercraft is taken from a Tamil expression meaning \"tied wood\"?",
+      "answer": "Catamaran",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "question": "Which liqueur gives a Grasshopper cocktail its signature green hue?",
+      "answer": "Green crème de menthe",
+      "acceptableAnswers": ["Crème de menthe", "Creme de menthe", "Green creme de menthe"]
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "question": "What does IMDb stand for in relation to the popular website?",
+      "answer": "Internet Movie Database",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "question": "What is the name of Fidel Castro's younger brother, who served as president of Cuba from 2008-18?",
+      "answer": "Raúl Castro",
+      "acceptableAnswers": ["Raul Castro", "Raúl", "Raul"]
+    },
+    {
+      "id": 17,
+      "type": "text",
+      "question": "Which Old Testament patriarch had three sons named Shem, Japheth and Ham?",
+      "answer": "Noah",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "question": "What is the first line of the second verse of Advance Australia Fair?",
+      "answer": "Beneath our radiant Southern Cross",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["beneath", "radiant", "southern cross"]
+    },
+    {
+      "id": 19,
+      "type": "text",
+      "question": "Which word starting with \"e\" means to change from a liquid into vapour?",
+      "answer": "Evaporate",
+      "acceptableAnswers": ["Evaporation"]
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "question": "Who was the only artist to perform at both the UK (London) and US (Philadelphia) Live Aid concerts on July 13, 1985?",
+      "answer": "Phil Collins",
+      "acceptableAnswers": ["Collins"]
+    },
+    {
+      "id": 21,
+      "type": "text",
+      "question": "Who recently stepped down as manager of Manchester City FC after 10 years?",
+      "answer": "Pep Guardiola",
+      "acceptableAnswers": ["Guardiola"]
+    },
+    {
+      "id": 22,
+      "type": "text",
+      "question": "Which classic horror film ends with the line, \"You stay … we belong dead.\"?",
+      "answer": "The Bride of Frankenstein",
+      "acceptableAnswers": ["Bride of Frankenstein"]
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "question": "In terms of flower-arranging, what is a \"frog\"?",
+      "answer": "A weighted base with holes in it placed inside a bowl or vase to anchor stems",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["holes", "anchor|hold|secure", "stems|flowers"]
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "question": "Which English rapper and poet recently toured Australia on the back of his album Self Titled (2025)?",
+      "answer": "Kae Tempest",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 25,
+      "type": "text",
+      "question": "Caledonia is the Latin name for which European country?",
+      "answer": "Scotland",
+      "acceptableAnswers": []
+    }
+  ]
+}
