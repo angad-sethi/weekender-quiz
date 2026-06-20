@@ -1,9 +1,10 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { useRouter } from "next/navigation";
 import styled from "styled-components";
 import AttributionFooter from "@/components/AttributionFooter";
+import { fireSchoolPride } from "@/lib/confetti";
 
 interface QuestionResult {
   questionId: number;
@@ -161,6 +162,7 @@ const HomeLink = styled.a`
 export default function ResultsPage() {
   const router = useRouter();
   const [data, setData] = useState<QuizResults | null>(null);
+  const firedRef = useRef(false);
 
   useEffect(() => {
     const stored = sessionStorage.getItem("quizResults");
@@ -169,6 +171,11 @@ export default function ResultsPage() {
       return;
     }
     setData(JSON.parse(stored));
+
+    if (!firedRef.current) {
+      firedRef.current = true;
+      fireSchoolPride();
+    }
   }, [router]);
 
   if (!data) return null;
