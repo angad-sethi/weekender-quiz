@@ -1,0 +1,187 @@
+{
+  "weekendOf": "2026-07-04",
+  "title": "Good Weekend - July 4",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "text",
+      "question": "The tapir is native to South America and which other continent?",
+      "answer": "Asia",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "question": "At what age does one become a tricenarian?",
+      "answer": "30",
+      "acceptableAnswers": ["Thirty"]
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "question": "At which tennis complex is the French Open held?",
+      "answer": "Stade Roland-Garros",
+      "acceptableAnswers": ["Roland-Garros", "Roland Garros", "Roland-Garros stadium"]
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "question": "Jarrahdale, Golden Nugget and Kent are varieties of … what?",
+      "answer": "Pumpkin",
+      "acceptableAnswers": ["Pumpkins"]
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "question": "The federal independent MP Allegra Spender is the daughter of which fashion designer?",
+      "answer": "Carla Zampatti",
+      "acceptableAnswers": ["Zampatti"]
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "Which 2017 single by US rapper Danny Brown begins, \"Verbal couture, parkour with the metaphors\"?",
+      "answer": "Ain't It Funny",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "question": "What type of bird do the Smurfs use for long-distance travel?",
+      "answer": "Storks",
+      "acceptableAnswers": ["Stork"]
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "question": "In which century did construction of Barcelona's Sagrada Família church begin?",
+      "answer": "The 19th",
+      "acceptableAnswers": ["19th", "19th century", "Nineteenth"]
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "question": "Which Asian capital is divided in two by the Han River?",
+      "answer": "Seoul",
+      "acceptableAnswers": ["Seoul, South Korea"]
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "question": "What anagram of \"tiles\" is a word for a set of steps used to pass over a fence or wall?",
+      "answer": "Stile",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "question": "In the 1970s, what time did Humphrey B. Bear appear on TV to tell kids it was time to go to bed?",
+      "answer": "7.30pm",
+      "acceptableAnswers": ["7:30pm", "7.30 pm", "Half past seven"]
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "question": "In which country is Sochi, host city of the 2014 Winter Olympics?",
+      "answer": "Russia",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 13,
+      "type": "text",
+      "question": "The Argentine revolutionary Che Guevara was buried minus which of his body parts?",
+      "answer": "His hands",
+      "acceptableAnswers": ["Hands"]
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "question": "In which sea is the island of Corsica?",
+      "answer": "The Mediterranean",
+      "acceptableAnswers": ["Mediterranean", "Mediterranean Sea"]
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "question": "What breed is Max's dog in the film Mad Max 2: The Road Warrior (1981)?",
+      "answer": "Blue heeler",
+      "acceptableAnswers": ["Australian cattle dog"]
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "question": "What is the birthstone for July?",
+      "answer": "Ruby",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 17,
+      "type": "text",
+      "question": "What type of hat takes its name from the Spanish word for \"shade\"?",
+      "answer": "Sombrero",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "question": "Created by the Japanese artist Katsushika Hokusai in 1831, The Great Wave off Kanagawa is an example of what printing technique?",
+      "answer": "Woodblock",
+      "acceptableAnswers": ["Woodblock printing", "Woodcut"]
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "Which of these ADHD medications is named after the wife of its inventor: Juneve, Ritalin or Vyvanse?",
+      "options": ["Juneve", "Ritalin", "Vyvanse"],
+      "answer": "Ritalin"
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "question": "The Archbishop of Canterbury is the ceremonial head of which church?",
+      "answer": "The Church of England",
+      "acceptableAnswers": ["Church of England", "Anglican Church"]
+    },
+    {
+      "id": 21,
+      "type": "text",
+      "question": "What is the titular \"Breakfast of Champions\" in Kurt Vonnegut's 1973 novel?",
+      "answer": "A martini",
+      "acceptableAnswers": ["Martini"]
+    },
+    {
+      "id": 22,
+      "type": "text",
+      "question": "On which continent is the chain of volcanoes known as the Virunga Mountains located?",
+      "answer": "Africa",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "question": "In which year was the Apple I computer released and the actor Benedict Cumberbatch born?",
+      "answer": "1976",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "question": "What is an angle greater than 90 degrees but less than 180 degrees called?",
+      "answer": "Obtuse",
+      "acceptableAnswers": ["Obtuse angle"]
+    },
+    {
+      "id": 25,
+      "type": "text",
+      "question": "Which two actors appeared in both Boogie Nights (1997) and The Big Lebowski (1998)?",
+      "answer": "Philip Seymour Hoffman and Julianne Moore",
+      "acceptableAnswers": [],
+      "matchType": "set"
+    }
+  ]
+}
