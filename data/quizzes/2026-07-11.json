@@ -1,0 +1,190 @@
+{
+  "weekendOf": "2026-07-11",
+  "title": "Good Weekend - July 11",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "text",
+      "question": "Australia's Highway 1 is nicknamed \"The Big [what?]\".",
+      "answer": "Lap",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "question": "What kind of meat is skewered and grilled to make yakitori?",
+      "answer": "Chicken",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "question": "What is the largest freshwater lake in the world by surface area?",
+      "answer": "Lake Superior",
+      "acceptableAnswers": ["Superior"]
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "question": "An oubliette was a type of medieval dungeon accessed … how?",
+      "answer": "Through a trapdoor in its ceiling",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["trapdoor|trap door|hole", "ceiling|top|above|roof"]
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "Which has the most vertebrae in its neck: giraffe, owl or sloth?",
+      "options": ["Giraffe", "Owl", "Sloth"],
+      "answer": "Owl"
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "Split Enz percussionist Noel Crombie is known for his virtuosic solos on which unusual musical instrument?",
+      "answer": "Spoons",
+      "acceptableAnswers": ["The spoons"]
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "question": "What variety of orange gets its name from an ancient port city in Israel?",
+      "answer": "Jaffa",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "question": "What is the title of the upcoming sequel to the 2010 film The Social Network?",
+      "answer": "The Social Reckoning",
+      "acceptableAnswers": ["Social Reckoning"]
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "question": "Which was the first African nation to reach the semi-finals of the men's FIFA World Cup?",
+      "answer": "Morocco",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "question": "In the Bible, who cut Samson's hair while he slept, robbing him of his strength?",
+      "answer": "Delilah",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "question": "Which capital city is served by Suvarnabhumi Airport?",
+      "answer": "Bangkok",
+      "acceptableAnswers": ["Bangkok, Thailand"]
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "True or false: Charon, Pluto's largest moon, was named after a figure from Greek mythology?",
+      "options": ["True", "False"],
+      "answer": "False"
+    },
+    {
+      "id": 13,
+      "type": "text",
+      "question": "Hugh de Kretser is the president of which Australian independent statutory body?",
+      "answer": "The Australian Human Rights Commission",
+      "acceptableAnswers": ["Australian Human Rights Commission", "AHRC", "Human Rights Commission"]
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "question": "Which inner-city Sydney suburb starting with \"B\" is only about 0.2 sq km in size?",
+      "answer": "Beaconsfield",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "question": "Which dance form did Catherine de' Medici introduce to France when she married Henry II in 1533?",
+      "answer": "Ballet",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "question": "On social media, what does it mean to be \"shadow banned\"?",
+      "answer": "A platform has restricted the visibility of a user's content or profile without notifying them",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["visib|hidden|hide|restrict|reduc|suppress", "without", "notif|knowing|telling|aware"]
+    },
+    {
+      "id": 17,
+      "type": "text",
+      "question": "Which confectionary has the tagline, \"It's the way it shatters that matters\"?",
+      "answer": "Violet Crumble",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "question": "Which Australian vocal duo released the albums Princess Tabu (1996) and Where Do You Come From? (2026)?",
+      "answer": "Vika and Linda",
+      "acceptableAnswers": ["Vika and Linda Bull"]
+    },
+    {
+      "id": 19,
+      "type": "text",
+      "question": "With regard to video games, movies and animations, what does \"FPS\" stand for?",
+      "answer": "Frames per second",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "question": "Which European country is divided into 26 member states known as cantons?",
+      "answer": "Switzerland",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 21,
+      "type": "text",
+      "question": "Which member of the dog family is also known as the prairie wolf and American jackal?",
+      "answer": "Coyote",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 22,
+      "type": "text",
+      "question": "Rosuvastatin is the most prescribed drug in Australia. What does it treat?",
+      "answer": "High cholesterol levels",
+      "acceptableAnswers": ["High cholesterol", "Cholesterol"]
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "question": "Which Melbourne arcade features a clock flanked by statues of the legendary giants Gog and Magog?",
+      "answer": "The Royal Arcade",
+      "acceptableAnswers": ["Royal Arcade"]
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "question": "Which 2015 sci-fi/adventure film includes the line, \"In your face, Neil Armstrong!\"",
+      "answer": "The Martian",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 25,
+      "type": "text",
+      "question": "The Bortle Scale is used by astronomers to measure … what?",
+      "answer": "Light pollution",
+      "acceptableAnswers": ["Night-sky brightness", "Night sky brightness"]
+    }
+  ]
+}
