@@ -1,0 +1,188 @@
+{
+  "weekendOf": "2026-07-18",
+  "title": "Good Weekend - July 18",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "text",
+      "question": "\"Cabriolet\" is the European and luxury automotive term for which kind of car?",
+      "answer": "Convertible",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "What is ebony: an animal byproduct, a mineral or a kind of wood?",
+      "options": ["An animal byproduct", "A mineral", "A kind of wood"],
+      "answer": "A kind of wood"
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "question": "James Fisher-Harris and Mitchell Barnett are the co-captains of which NRL team?",
+      "answer": "The New Zealand Warriors",
+      "acceptableAnswers": ["New Zealand Warriors", "Warriors"]
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "question": "What did the Romans call Odysseus, the legendary Greek king of Ithaca?",
+      "answer": "Ulysses",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "question": "What word precedes body, grown and page to form new words?",
+      "answer": "Home",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "In chemistry, \"pH\" stands for \"potential of [what?]\"",
+      "answer": "Hydrogen",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "question": "Which 1999 thriller was renamed He's a Ghost! for its Chinese release?",
+      "answer": "The Sixth Sense",
+      "acceptableAnswers": ["Sixth Sense"]
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "question": "Triodia scintillans, a spinifex grass found in the WA Pilbara, tastes like which flavour of potato chip?",
+      "answer": "Salt and vinegar",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "question": "Which alternative-rock legend duets with Olivia Rodrigo on her recent song What's Wrong with Me?",
+      "answer": "Robert Smith",
+      "acceptableAnswers": ["Robert Smith of The Cure"]
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "The moon has about what percentage of Earth's surface gravity: 6.6, 16.6 or 60.6 per cent?",
+      "options": ["6.6 per cent", "16.6 per cent", "60.6 per cent"],
+      "answer": "16.6 per cent"
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "question": "Which of the \"five stages of grief\" is missing from this sequence: anger, bargaining, depression, acceptance?",
+      "answer": "Denial",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "question": "Amman is the capital of which Middle Eastern country?",
+      "answer": "Jordan",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 13,
+      "type": "text",
+      "question": "Which two English consonants function as vowels in Welsh?",
+      "answer": "W and Y",
+      "acceptableAnswers": [],
+      "matchType": "set"
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "question": "In volleyball, how many times may a team touch the ball before returning it over the net?",
+      "answer": "Three",
+      "acceptableAnswers": ["3"]
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "question": "Which sportswear company began in 1964 as Blue Ribbon Sports?",
+      "answer": "Nike",
+      "acceptableAnswers": ["Nike, Inc."]
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "question": "The video game Kingdom Hearts combines characters and settings from Disney animated features with those from which other video game franchise?",
+      "answer": "Final Fantasy",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 17,
+      "type": "text",
+      "question": "Which word beginning with \"g\" was invented by Texan lawyer Maury Maverick to describe the convoluted language of bureaucracy?",
+      "answer": "Gobbledygook",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "question": "Which novelist's books include Bel Canto (2001), The Dutch House (2019) and Whistler (2026)?",
+      "answer": "Ann Patchett",
+      "acceptableAnswers": ["Patchett"]
+    },
+    {
+      "id": 19,
+      "type": "text",
+      "question": "Which Australian town was named after the wife of telegraph pioneer Charles Todd?",
+      "answer": "Alice Springs",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "question": "According to a 1976 AC/DC song, you should ring \"3-6, 2-4, 3-6\" if you require which service?",
+      "answer": "Dirty Deeds Done Dirt Cheap",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 21,
+      "type": "text",
+      "question": "What is the Japanese word for a lunchbox containing a variety of foods?",
+      "answer": "Bento",
+      "acceptableAnswers": ["Bento box"]
+    },
+    {
+      "id": 22,
+      "type": "text",
+      "question": "In terms of street signs, what does \"Cl\" stand for?",
+      "answer": "Close",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "question": "Which German philosopher wrote, \"Some men are born posthumously\"?",
+      "answer": "Friedrich Nietzsche",
+      "acceptableAnswers": ["Nietzsche"]
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "question": "The actors Hardy, Hiddleston and Holland share which first name?",
+      "answer": "Tom",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 25,
+      "type": "text",
+      "question": "Name three of the five words in the NATO alphabet that end in \"o\".",
+      "answer": "Bravo, Echo, Kilo, Romeo, Tango",
+      "acceptableAnswers": [],
+      "matchType": "set"
+    }
+  ]
+}
