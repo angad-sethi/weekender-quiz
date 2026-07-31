@@ -1,0 +1,193 @@
+{
+  "weekendOf": "2026-08-01",
+  "title": "Good Weekend - August 1",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "True or false: the pangolin is a type of reptile?",
+      "options": ["True", "False"],
+      "answer": "False"
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "question": "The Chinese flag features how many stars?",
+      "answer": "Five",
+      "acceptableAnswers": ["5"]
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "question": "Anatomically speaking, what is the hallux?",
+      "answer": "The big toe",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "question": "What, starting with \"P\", is the longest river in Italy?",
+      "answer": "The Po",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "question": "Which Australian city is home to the world's largest coal port?",
+      "answer": "Newcastle",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "The late Bonnie Tyler's Holding Out for a Hero was recorded for the soundtrack of which 1984 film?",
+      "answer": "Footloose",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "question": "If I've emerged unscathed from a disagreeable experience, I've come up smelling of... what?",
+      "answer": "Roses",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "question": "Smoke on the Water is a fictional medical marijuana dispensary in which video game franchise?",
+      "answer": "Grand Theft Auto",
+      "acceptableAnswers": ["GTA"]
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "question": "The artists Tony Albert, Ben Quilty and Wendy Sharpe have all served Australia in which official capacity?",
+      "answer": "They have all served as official Australian war artists",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["war", "artist"]
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "question": "What golf term is also used for an evil spirit or goblin?",
+      "answer": "Bogey",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "Do humans tend to be taller in the morning or at night?",
+      "options": ["In the morning", "At night"],
+      "answer": "In the morning"
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "question": "Match the Disney princess to the film: Aurora, Jasmine, Merida; Aladdin, Brave, Sleeping Beauty. (Answer with the three films in the order of the princesses.)",
+      "answer": "Sleeping Beauty, Aladdin, Brave",
+      "acceptableAnswers": [],
+      "matchType": "ordered"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "Which is the correct spelling: playwright, playwrite or playright?",
+      "options": ["Playwright", "Playwrite", "Playright"],
+      "answer": "Playwright"
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "question": "Which English noblewoman is known as the \"Nine Days' Queen\"?",
+      "answer": "Lady Jane Grey",
+      "acceptableAnswers": ["Jane Grey"]
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "question": "Box, microplane and rotary are types of which kitchen utensil?",
+      "answer": "Grater",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "question": "In Australian hospitals, what type of emergency is signalled by a Code Orange?",
+      "answer": "Evacuation",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 17,
+      "type": "text",
+      "question": "What English word is plage in French, playa in Spanish and strand in German?",
+      "answer": "Beach",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "question": "American \"gonzo\" journalist Andrew Callaghan is the host of the YouTube series All Gas No... what?",
+      "answer": "Brakes",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 19,
+      "type": "text",
+      "question": "The 2026 Tour de France spanned 23 days in total. How many rest days did this include?",
+      "answer": "Two",
+      "acceptableAnswers": ["2"]
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "question": "Disposable nail files are traditionally coated with which abrasive powder?",
+      "answer": "Emery",
+      "acceptableAnswers": ["Corundite"]
+    },
+    {
+      "id": 21,
+      "type": "text",
+      "question": "What is unusual about the gestation process of the seahorse?",
+      "answer": "The male seahorse carries the pregnancy and gives birth",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["male|father|dad"]
+    },
+    {
+      "id": 22,
+      "type": "text",
+      "question": "Chromatic, diatonic and orchestral are all types of which musical instrument?",
+      "answer": "Harmonica",
+      "acceptableAnswers": ["Mouth organ"]
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "question": "In which decade did the Vietnamese city of Saigon change its name to Ho Chi Minh City?",
+      "answer": "The 1970s",
+      "acceptableAnswers": ["70s", "Seventies"]
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "Which of these isn't an ingredient in a traditional Caesar salad: egg, anchovy or tomato?",
+      "options": ["Egg", "Anchovy", "Tomato"],
+      "answer": "Tomato"
+    },
+    {
+      "id": 25,
+      "type": "text",
+      "question": "What point in the atmosphere is referred to as the Kármán Line?",
+      "answer": "The boundary between Earth's atmosphere and outer space",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["space", "boundary|edge|begin|start|between|end"]
+    }
+  ]
+}
