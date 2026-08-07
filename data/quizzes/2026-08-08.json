@@ -1,0 +1,200 @@
+{
+  "weekendOf": "2026-08-08",
+  "title": "Good Weekend - August 8",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "text",
+      "question": "The caipirinha is the national cocktail of which country?",
+      "answer": "Brazil",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "question": "The Empire State Building is an example of which architectural style?",
+      "answer": "Art deco",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "question": "What is Gus, which sold for $US50.1 million at Sotheby's in New York last month?",
+      "answer": "An 11.6-metre-long fossilised Tyrannosaurus rex skeleton",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["tyrannosaur|t rex|t. rex|t-rex|trex", "skeleton|fossil"]
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "question": "Boorloo is the Noongar word for the area encompassing which city?",
+      "answer": "Perth",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "question": "Name the two movies starring the late Sam Neill with \"Hunt for\" in the title.",
+      "answer": "The Hunt for Red October, Hunt for the Wilderpeople",
+      "acceptableAnswers": [],
+      "matchType": "set"
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "The Jura Mountains in Europe gave their name to which geological epoch?",
+      "answer": "Jurassic",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "question": "Nick Blakey (nicknamed \"Lizard\") plays for which AFL club?",
+      "answer": "The Sydney Swans",
+      "acceptableAnswers": ["Sydney", "Swans"]
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "question": "The law of falling bodies and the moons of Jupiter. Who is the link?",
+      "answer": "Galileo",
+      "acceptableAnswers": ["Galileo Galilei"]
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "question": "Which legendary actress, singer and dancer's 2026 memoir is titled Kids, Wait Till You Hear This!?",
+      "answer": "Liza Minnelli",
+      "acceptableAnswers": ["Minnelli"]
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "Do horses have elbows?",
+      "options": ["Yes", "No"],
+      "answer": "Yes"
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "question": "On the SBS quiz show Mastermind, how long does the general knowledge round last?",
+      "answer": "90 seconds",
+      "acceptableAnswers": ["Ninety seconds", "A minute and a half"]
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "In terms of land area, what is the second-largest country in Africa: Algeria, Democratic Republic of Congo or Sudan?",
+      "options": ["Algeria", "Democratic Republic of Congo", "Sudan"],
+      "answer": "Democratic Republic of Congo"
+    },
+    {
+      "id": 13,
+      "type": "text",
+      "question": "According to Gen Z slang, what am I doing if I'm \"nonnamaxxing\"?",
+      "answer": "Avoiding burnout by adopting the perceived slow-paced lifestyle of a traditional Italian grandmother (nonna)",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["nonna|grandmother|grandma|granny"]
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "question": "In Egyptian mythology, who was the sister (and wife) of Osiris?",
+      "answer": "Isis",
+      "acceptableAnswers": [],
+      "matchType": "exact"
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "question": "The root vegetable cassava is native to which continent?",
+      "answer": "South America",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "question": "In regards to legalised betting, what does the \"T\" in TAB stand for?",
+      "answer": "Totalisator",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 17,
+      "type": "text",
+      "question": "In which country does the locally produced orange soft drink Irn-Bru regularly outsell Coca-Cola?",
+      "answer": "Scotland",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "question": "Which medical procedure involves the cutting and sealing of the vas deferens tubes?",
+      "answer": "Vasectomy",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 19,
+      "type": "text",
+      "question": "In soccer, how many yellow cards does a player receive in a match before being sent off?",
+      "answer": "Two",
+      "acceptableAnswers": ["2"]
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "question": "Name two European capitals starting with the letter \"C\".",
+      "answer": "Cardiff, Chișinău, Copenhagen (any two)",
+      "acceptableAnswers": [
+        "Cardiff, Chișinău",
+        "Chișinău, Cardiff",
+        "Cardiff, Copenhagen",
+        "Copenhagen, Cardiff",
+        "Chișinău, Copenhagen",
+        "Copenhagen, Chișinău",
+        "Cardiff, Chișinău, Copenhagen"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "text",
+      "question": "A 1984 song by the Smiths is Heaven Knows I'm [what?] Now.",
+      "answer": "Miserable",
+      "acceptableAnswers": ["Miserable now"]
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "Charles Kingsford Smith made the first trans-Pacific flight from the US to Australia in which year: 1928, 1931 or 1935?",
+      "options": ["1928", "1931", "1935"],
+      "answer": "1928"
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "question": "Which grape variety (and wine) translates as \"black pinecone\" in French?",
+      "answer": "Pinot noir",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "question": "Sybylla Melvyn is the heroine of which classic Australian 1901 novel, 1979 film and upcoming Netflix series?",
+      "answer": "My Brilliant Career",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 25,
+      "type": "text",
+      "question": "Which is the only English word with three consecutive double letters?",
+      "answer": "Bookkeeper",
+      "acceptableAnswers": ["Bookkeeping"]
+    }
+  ]
+}
