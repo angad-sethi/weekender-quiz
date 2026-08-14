@@ -1,0 +1,192 @@
+{
+  "weekendOf": "2026-08-15",
+  "title": "Good Weekend - August 15",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "text",
+      "question": "What is the only national capital to begin with the letter \"Z\"?",
+      "answer": "Zagreb",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "Is \"taciturn\" closest in meaning to diplomatic, menacing or reticent?",
+      "options": ["Diplomatic", "Menacing", "Reticent"],
+      "answer": "Reticent"
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "question": "Harry Styles fans are Harries, Taylor Swift fans are Swifties. What are Lil Wayne fans?",
+      "answer": "Wayniacs",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "Does a fossa have feathers, fins or fur?",
+      "options": ["Feathers", "Fins", "Fur"],
+      "answer": "Fur"
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "question": "Spain's Ferran Torres, who scored the decisive goal in the 2026 FIFA World Cup final against Argentina, plays for which professional club?",
+      "answer": "FC Barcelona",
+      "acceptableAnswers": ["Barcelona", "Barça"]
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "On a PC, what is the shortcut Ctrl + Y typically used for?",
+      "answer": "Redo an action (i.e. to undo an undo)",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["redo"]
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "question": "Which comedian has toured Australia with the shows Charming & Alarming and Smashing?",
+      "answer": "Kitty Flanagan",
+      "acceptableAnswers": ["Flanagan"]
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "Is the Zimbabwean \"mbira\" a type of goat stew, a throwing axe or a thumb piano?",
+      "options": ["A type of goat stew", "A throwing axe", "A thumb piano"],
+      "answer": "A thumb piano"
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "question": "How many sides does a parallelogram have?",
+      "answer": "Four",
+      "acceptableAnswers": ["4"]
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "question": "The play Look Back in Anger (1956) belongs to which post-war British cultural movement named after a household item?",
+      "answer": "Kitchen sink realism",
+      "acceptableAnswers": ["Kitchen sink", "Kitchen sink drama"]
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "question": "Wallaman Falls, Australia's tallest single-drop waterfall - at 268 metres - is located in which state or territory?",
+      "answer": "Queensland",
+      "acceptableAnswers": ["QLD"]
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "question": "Home to the largest collection of paintings in the world, the Hermitage Museum is in which city?",
+      "answer": "Saint Petersburg",
+      "acceptableAnswers": ["St Petersburg", "St. Petersburg"]
+    },
+    {
+      "id": 13,
+      "type": "text",
+      "question": "The furlong is a unit of distance (of about 201 metres) mostly confined to use in which sport?",
+      "answer": "Horse racing",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "question": "Which Elton John song contains the lyrics, \"She's got electric boots, a mohair suit/You know, I read it in a magazine, oh-oh\"?",
+      "answer": "Bennie and the Jets",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "question": "Which veteran SBS News presenter will retire in September?",
+      "answer": "Anton Enus",
+      "acceptableAnswers": ["Enus"]
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "question": "What is monophobia?",
+      "answer": "An intense fear of being alone",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["fear|afraid|scared|phobia", "alone|lonel|solitude|isolat"]
+    },
+    {
+      "id": 17,
+      "type": "text",
+      "question": "Which word for a type of barrier can also be used for a dealer in stolen goods?",
+      "answer": "Fence",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "question": "What was unusual about the casting of the 1976 gangster film Bugsy Malone?",
+      "answer": "All of the characters, adult or otherwise, were played by child actors",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["child|kid"]
+    },
+    {
+      "id": 19,
+      "type": "text",
+      "question": "Which chemical element has the atomic number 3?",
+      "answer": "Lithium",
+      "acceptableAnswers": ["Li"]
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "question": "The name of which German spiced liqueur translates as \"master of the hunt\"?",
+      "answer": "Jägermeister",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "Which has more horns: the African or Indian rhinoceros?",
+      "options": ["The African rhinoceros", "The Indian rhinoceros"],
+      "answer": "The African rhinoceros"
+    },
+    {
+      "id": 22,
+      "type": "text",
+      "question": "Which series of video games centres on the Belmont family, a clan of vampire-hunters?",
+      "answer": "Castlevania",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "question": "Located at the Acropolis in Athens, the Parthenon was dedicated to which goddess?",
+      "answer": "Athena",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "question": "Proverbially, a little [what?] is a dangerous thing.",
+      "answer": "Knowledge",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 25,
+      "type": "text",
+      "question": "Developed in 1966, Eliza was the first example of what kind of software program?",
+      "answer": "Chatbot",
+      "acceptableAnswers": []
+    }
+  ]
+}
