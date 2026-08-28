@@ -1,0 +1,198 @@
+{
+  "weekendOf": "2026-08-29",
+  "title": "Good Weekend - August 29",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "text",
+      "question": "A choice where only one option is offered is known as whose choice?",
+      "answer": "Hobson's",
+      "acceptableAnswers": ["Hobson", "Hobson's choice"]
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "question": "How many voyages did Sinbad the Sailor embark on in One Thousand and One Nights?",
+      "answer": "Seven",
+      "acceptableAnswers": ["7"]
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "Which song is not on the Dirty Dancing soundtrack: Angel Eyes, She's Like the Wind, or (I've Had) The Time of My Life?",
+      "options": ["Angel Eyes", "She's Like the Wind", "(I've Had) The Time of My Life"],
+      "answer": "Angel Eyes"
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "question": "In regards to card games, \"faro\", \"overhand\" and \"riffle\" are types of ... what?",
+      "answer": "Card-shuffling techniques",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["shuffl"]
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "question": "As played by Magda Szubanski on TV, call centre employee Lynne Postlethwaite was known for which nine-word catchphrase?",
+      "answer": "\"I said pet, I said love, I said pet.\"",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["pet", "love"]
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "What grass-like plant rhyming with \"hedge\" grows in wet soil or near water?",
+      "answer": "Sedge",
+      "acceptableAnswers": [],
+      "matchType": "exact"
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "question": "Which singer is set to star in a film adaptation of Sylvia Plath's 1963 novel, The Bell Jar?",
+      "answer": "Billie Eilish",
+      "acceptableAnswers": ["Eilish"]
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "question": "China has introduced a world-first ban on which controversial EV design feature?",
+      "answer": "Flush/hidden electronic door handles (without mechanical releases)",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["handle", "hidden|flush|retract|electronic|pop"]
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "question": "In Tasmania, a black puffer jacket is informally known as a \"Tassie [what?]\"",
+      "answer": "Tuxedo",
+      "acceptableAnswers": ["Tux"]
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "question": "Which youth awards program was founded in 1956 by Prince Philip?",
+      "answer": "The Duke of Edinburgh's Award",
+      "acceptableAnswers": ["Duke of Edinburgh", "Duke of Ed", "DofE"]
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "question": "In bingo, which number is represented by \"two little ducks\"?",
+      "answer": "22",
+      "acceptableAnswers": ["Twenty-two"]
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "question": "What is the direct link between the podcast Fashion Neurosis and Sigmund Freud?",
+      "answer": "The podcast host, Bella Freud, is Sigmund Freud's great-granddaughter",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["granddaughter|grand-daughter|grand daughter|descendant|related|relative|family"]
+    },
+    {
+      "id": 13,
+      "type": "text",
+      "question": "Which English word translates as uff in Hindi, hoppla in German and hups in Finnish?",
+      "answer": "Oops/whoops!",
+      "acceptableAnswers": ["Oops", "Whoops"]
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "question": "Tanganyika and Zanzibar combined to form which country in 1964?",
+      "answer": "Tanzania",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "question": "Which Australian state premier was banned from entering Russia after the 2022 invasion of Ukraine?",
+      "answer": "SA Premier Peter Malinauskas",
+      "acceptableAnswers": ["Peter Malinauskas", "Malinauskas"]
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "question": "What is the second book of the New Testament?",
+      "answer": "Mark",
+      "acceptableAnswers": ["The Gospel of Mark", "Gospel of Mark"],
+      "matchType": "exact"
+    },
+    {
+      "id": 17,
+      "type": "text",
+      "question": "The Gallic rooster is the unofficial national symbol of which country?",
+      "answer": "France",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "question": "The Canning Stock Route runs from Halls Creek to Wiluna in which state or territory?",
+      "answer": "Western Australia",
+      "acceptableAnswers": ["WA"]
+    },
+    {
+      "id": 19,
+      "type": "text",
+      "question": "Runner Cathy Freeman just topped a list of Australia's most admired sportspeople. Who was equal second?",
+      "answer": "Ash Barty, Sam Kerr",
+      "acceptableAnswers": [],
+      "matchType": "set"
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "question": "What is the medical term for low blood sugar?",
+      "answer": "Hypoglycemia",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "As of December 2025, was Australia's population closest to 26 million, 27 million or 28 million?",
+      "options": ["26 million", "27 million", "28 million"],
+      "answer": "28 million"
+    },
+    {
+      "id": 22,
+      "type": "text",
+      "question": "Under which US president did Barbara Bush serve as second lady?",
+      "answer": "Ronald Reagan",
+      "acceptableAnswers": ["Reagan"]
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "question": "Which is the nearest sovereign country to Australia where motorists drive on the right?",
+      "answer": "Vanuatu",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "question": "What is the singular form of the word \"spaghetti\"?",
+      "answer": "Spaghetto",
+      "acceptableAnswers": [],
+      "matchType": "exact"
+    },
+    {
+      "id": 25,
+      "type": "text",
+      "question": "Which is the coldest national capital in the world?",
+      "answer": "Ulaanbaatar, Mongolia",
+      "acceptableAnswers": ["Ulaanbaatar", "Ulan Bator"]
+    }
+  ]
+}
