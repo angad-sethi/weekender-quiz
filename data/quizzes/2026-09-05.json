@@ -1,0 +1,190 @@
+{
+  "weekendOf": "2026-09-05",
+  "title": "Good Weekend - September 5",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "text",
+      "question": "If feline means cat-like, and porcine means pig-like, what does lupine mean?",
+      "answer": "Wolf-like",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["wolf|wolv"]
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "question": "Which is the only single-word country name that contains all five vowels?",
+      "answer": "Mozambique",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "question": "Which 1980 song begins, \"Colour me your colour baby, colour me your car\"?",
+      "answer": "Call Me, by Blondie",
+      "acceptableAnswers": ["Call Me"]
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "question": "Standing at 462 metres, the Lakhta Center is the tallest building in which country?",
+      "answer": "Russia",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "question": "Hugo Weaving played the half-elven lord Elrond in how many films?",
+      "answer": "Five",
+      "acceptableAnswers": ["5"]
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "A chicken mignon is traditionally wrapped in what?",
+      "answer": "Bacon",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "question": "What is a confetto?",
+      "answer": "A single piece of confetti",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["confetti", "piece|single|one|bit|singular"]
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "question": "Freerunning was adapted from which other physical discipline?",
+      "answer": "Parkour",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "question": "In business, what does \"ROI\" stand for?",
+      "answer": "Return on investment",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "question": "What gemstone is chemically identical to pencil lead?",
+      "answer": "Diamond",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "question": "The headwaters of the River Murray lie in which subrange of the Great Dividing Range?",
+      "answer": "The Snowy Mountains",
+      "acceptableAnswers": ["Snowies"]
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "In folklore, what won't kill a vampire: sunlight, a silver bullet or a stake through the heart?",
+      "options": ["Sunlight", "A silver bullet", "A stake through the heart"],
+      "answer": "A silver bullet"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "According to her publishers, romance author Barbara Cartland wrote how many books: 723, 923 or 1123?",
+      "options": ["723", "923", "1123"],
+      "answer": "723"
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "question": "Which country's currency uses the official code CNY?",
+      "answer": "China",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "question": "Is Colin from the TV series Colin from Accounts a border terrier, chihuahua or dachshund?",
+      "options": ["Border terrier", "Chihuahua", "Dachshund"],
+      "answer": "Border terrier"
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "question": "Where did the upper stage of a SpaceX Falcon 9 rocket crash on August 5?",
+      "answer": "The Moon",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 17,
+      "type": "text",
+      "question": "The videogame Pro Jank Footy presents a surreal version of which football code?",
+      "answer": "Australian Rules football",
+      "acceptableAnswers": ["AFL", "Aussie Rules", "Australian Rules"]
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "According to British slang, what am I if I'm mardy: dim-witted, grumpy or unattractive?",
+      "options": ["Dim-witted", "Grumpy", "Unattractive"],
+      "answer": "Grumpy"
+    },
+    {
+      "id": 19,
+      "type": "text",
+      "question": "In relation to the government body, what does \"ASIC\" stand for?",
+      "answer": "Australian Securities and Investments Commission",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "question": "Phonetically speaking, how many fricative sounds are in the word \"dishcloth\"?",
+      "answer": "Two: the \"sh\" and \"th\"",
+      "acceptableAnswers": ["Two", "2"]
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "What is the official motto of Norfolk Island: \"As far as\", \"Inasmuch\" or \"Seeing that\"?",
+      "options": ["As far as", "Inasmuch", "Seeing that"],
+      "answer": "Inasmuch"
+    },
+    {
+      "id": 22,
+      "type": "text",
+      "question": "The Galapagos marine iguana and the North Ronaldsay sheep are the only known land animals to subsist on ... what?",
+      "answer": "Seaweed",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "question": "During World War II, the English surrealist painter Roland Penrose put his talents to use helping to develop ... what?",
+      "answer": "Camouflage",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "question": "Igor Stravinsky is credited with saying: \"A good composer does not imitate; he [what?]\"",
+      "answer": "Steals",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 25,
+      "type": "text",
+      "question": "Which northern NSW cattle town shares its name with a Martin Scorsese film?",
+      "answer": "Casino",
+      "acceptableAnswers": []
+    }
+  ]
+}
