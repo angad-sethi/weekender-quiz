@@ -1,0 +1,208 @@
+{
+  "weekendOf": "2026-09-12",
+  "title": "Good Weekend - September 12",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "text",
+      "question": "How many sides does a standard pencil have?",
+      "answer": "Six",
+      "acceptableAnswers": ["6"]
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "question": "The Indian dish murgh makhani is also commonly known as ... what?",
+      "answer": "Butter chicken",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "question": "What body temperature is generally considered the threshold for a fever?",
+      "answer": "38 degrees",
+      "acceptableAnswers": ["38", "38C", "38 degrees Celsius"]
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "question": "The towns of Walgett, Bourke and Wilcannia lie on which Australian river?",
+      "answer": "The Darling",
+      "acceptableAnswers": ["Darling River"]
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "question": "In cricket, how many runs are scored in a maiden over?",
+      "answer": "Zero",
+      "acceptableAnswers": ["0", "None"]
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "Which 1950 novel begins, \"Once there were four children whose names were Peter, Susan, Edmund, and Lucy\"?",
+      "answer": "The Lion, the Witch and the Wardrobe",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "question": "What, starting with \"P\", is the branch of engineering that uses pressurised gas to power mechanical devices?",
+      "answer": "Pneumatics",
+      "acceptableAnswers": ["Pneumatic engineering"]
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "question": "Europe's tallest Virgin Mary statue was recently unveiled in which country?",
+      "answer": "Poland",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "question": "Which earthy pigment is an anagram of \"chore\"?",
+      "answer": "Ochre",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "question": "\"One slice is never enough\" was a long-running slogan for which ice-cream dessert?",
+      "answer": "Viennetta",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "question": "The \"Middle Way\" is a core concept in which spiritual practice?",
+      "answer": "Buddhism",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "question": "Match the car company to the country: Audi, Fiat, Volvo; Italy, Sweden, Germany. (Answer with the three countries in the order of the car companies.)",
+      "answer": "Germany, Italy, Sweden",
+      "acceptableAnswers": [],
+      "matchType": "ordered"
+    },
+    {
+      "id": 13,
+      "type": "text",
+      "question": "Which indie rock supergroup released 2023 album The Record?",
+      "answer": "boygenius",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "What kind of melon was Anthony Albanese gifted by the Japanese PM: honeydew, muskmelon or rockmelon?",
+      "options": ["Honeydew", "Muskmelon", "Rockmelon"],
+      "answer": "Muskmelon"
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "question": "Khartoum is the capital of which country?",
+      "answer": "Sudan",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "question": "Name two of the three films featuring Brad Pitt that have the number 12 in their title.",
+      "answer": "Twelve Monkeys, Ocean's Twelve and 12 Years a Slave (any two)",
+      "acceptableAnswers": [
+        "Twelve Monkeys, Ocean's Twelve",
+        "Ocean's Twelve, Twelve Monkeys",
+        "Twelve Monkeys, 12 Years a Slave",
+        "12 Years a Slave, Twelve Monkeys",
+        "Ocean's Twelve, 12 Years a Slave",
+        "12 Years a Slave, Ocean's Twelve",
+        "12 Monkeys, Ocean's Twelve",
+        "Ocean's Twelve, 12 Monkeys",
+        "12 Monkeys, 12 Years a Slave",
+        "12 Years a Slave, 12 Monkeys",
+        "Oceans 12, Twelve Monkeys",
+        "Twelve Monkeys, Oceans 12",
+        "Oceans 12, 12 Years a Slave",
+        "12 Years a Slave, Oceans 12",
+        "12 Monkeys, Oceans 12",
+        "Oceans 12, 12 Monkeys",
+        "Twelve Monkeys, Ocean's Twelve, 12 Years a Slave"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "text",
+      "question": "What part of a prawn's anatomy is known as the \"sand vein\"?",
+      "answer": "The digestive tract",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["digest|intestin|gut|bowel"]
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "question": "Who is the only Australian author to debut at the top of The New York Times' bestseller list?",
+      "answer": "Liane Moriarty",
+      "acceptableAnswers": ["Moriarty"]
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "What is the chemical element for the symbol Ca: cadmium, caesium or calcium?",
+      "options": ["Cadmium", "Caesium", "Calcium"],
+      "answer": "Calcium"
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "question": "Which country's flag represents a blue sky above wheat fields?",
+      "answer": "Ukraine",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 21,
+      "type": "text",
+      "question": "Episodes of the original series of Young Talent Time ended with the cast performing which Beatles song?",
+      "answer": "All My Loving",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 22,
+      "type": "text",
+      "question": "What is the symbol of the National Breast Cancer Foundation?",
+      "answer": "A pink ribbon",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "question": "Which Australian airline went into voluntary administration on September 12, 2001?",
+      "answer": "Ansett Australia",
+      "acceptableAnswers": ["Ansett"]
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "question": "Which two actors host the podcast Where Everybody Knows Your Name?",
+      "answer": "Ted Danson, Woody Harrelson",
+      "acceptableAnswers": [],
+      "matchType": "set"
+    },
+    {
+      "id": 25,
+      "type": "text",
+      "question": "What is the name of the gruelling training process that London black cab drivers undergo?",
+      "answer": "The Knowledge",
+      "acceptableAnswers": []
+    }
+  ]
+}
