@@ -1,0 +1,192 @@
+{
+  "weekendOf": "2026-09-19",
+  "title": "Good Weekend - September 19",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "text",
+      "question": "PEK is the airport code for which capital city?",
+      "answer": "Beijing",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "question": "\"Frankly, my dear, I don't give a damn\" is a line from which 1939 film?",
+      "answer": "Gone With the Wind",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "question": "Which AFL team plays its home games at People First Stadium?",
+      "answer": "Gold Coast Suns",
+      "acceptableAnswers": ["Gold Coast", "Suns"]
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "question": "Tomatoes belong to which family of flowering plants?",
+      "answer": "Solanaceae",
+      "acceptableAnswers": ["Nightshades", "Nightshade", "Nightshade family"]
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "question": "Which free web browser was launched by the Mozilla Foundation in 2004?",
+      "answer": "Firefox",
+      "acceptableAnswers": ["Mozilla Firefox"]
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "Monochromacy is an extreme version of which medical condition?",
+      "answer": "Colour blindness",
+      "acceptableAnswers": ["Colour blind", "Color blind"]
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "question": "What branch of philosophy explores the fundamental nature of reality?",
+      "answer": "Metaphysics",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "question": "The lunar lander Yutu, or Jade Rabbit, was launched in 2013 by which country?",
+      "answer": "China",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "question": "Which figure from the Book of Genesis was given a \"coat of many colours\" by his father?",
+      "answer": "Joseph",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "question": "In which city is La Scala opera house?",
+      "answer": "Milan",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "question": "Which UK sitcom is set at Rudge Park Comprehensive School?",
+      "answer": "The Inbetweeners",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "question": "What would typically be made with a Bundt mold?",
+      "answer": "A Bundt cake (a ring-shaped cake)",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["cake"]
+    },
+    {
+      "id": 13,
+      "type": "text",
+      "question": "What is the meaning of the Arabic expression \"inshallah\"?",
+      "answer": "\"God willing\"",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["god|allah", "will|wish|hope"]
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "question": "Pewter is an alloy made mostly of which metal?",
+      "answer": "Tin",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "question": "Slapping and popping are techniques associated with which stringed instrument?",
+      "answer": "The bass guitar",
+      "acceptableAnswers": ["Bass"]
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "question": "What is a baby wombat called?",
+      "answer": "Joey",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 17,
+      "type": "text",
+      "question": "Looped, italic and connected are all variations of ... what?",
+      "answer": "Cursive handwriting",
+      "acceptableAnswers": ["Cursive", "Cursive writing", "Handwriting"]
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "question": "Which classic 1988 anime film is set in 2019 in \"Neo-Tokyo\"?",
+      "answer": "Akira",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 19,
+      "type": "text",
+      "question": "Athos, Porthos and Aramis are better known as ... ?",
+      "answer": "The Three Musketeers",
+      "acceptableAnswers": ["Musketeers"]
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "question": "Which country's national dish is made from fermented Greenland shark?",
+      "answer": "Iceland",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 21,
+      "type": "text",
+      "question": "What, among Australia's hoons, is sometimes described as \"circle work\"?",
+      "answer": "Driving a car in tight circles to skid the tyres and leave circular marks (aka a \"doughnut\")",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["doughnut|donut|circle|skid"]
+    },
+    {
+      "id": 22,
+      "type": "text",
+      "question": "What is 25 per cent of 3700?",
+      "answer": "925",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "question": "According to English folklore, who was the original \"Peeping Tom\" spying on?",
+      "answer": "Lady Godiva",
+      "acceptableAnswers": ["Godiva"]
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "question": "Which late singer established the Imagination Library, a free book-gifting program for children?",
+      "answer": "Dolly Parton",
+      "acceptableAnswers": ["Parton"]
+    },
+    {
+      "id": 25,
+      "type": "text",
+      "question": "Yamoussoukro is the capital of which country in West Africa?",
+      "answer": "Côte d'Ivoire",
+      "acceptableAnswers": ["Ivory Coast"]
+    }
+  ]
+}
