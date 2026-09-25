@@ -1,0 +1,190 @@
+{
+  "weekendOf": "2026-09-26",
+  "title": "Good Weekend - September 26",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "text",
+      "question": "The resort town of St Moritz is in which country?",
+      "answer": "Switzerland",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "question": "A \"bloat\" is a collective noun for which animal?",
+      "answer": "Hippopotamus",
+      "acceptableAnswers": ["Hippo", "Hippos", "Hippopotami", "Hippopotamuses"]
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "question": "What does Popeye the Sailor Man have tattooed on both of his forearms?",
+      "answer": "An anchor",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "Is a number that appears most frequently in a series the mean, median or mode?",
+      "options": ["Mean", "Median", "Mode"],
+      "answer": "Mode"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "Which word fills the blank in the Phil Collins album No ... Required: Experience, Jacket or RSVP?",
+      "options": ["Experience", "Jacket", "RSVP"],
+      "answer": "Jacket"
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "John Hope (1860-1908), Australia's first governor-general, was formally appointed by which then-monarch?",
+      "answer": "Queen Victoria",
+      "acceptableAnswers": ["Victoria"]
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "question": "Which primary colour can babies distinguish first?",
+      "answer": "Red",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "question": "What word rhyming with \"toy\" in Australian English rhymes with \"dewy\" in American English?",
+      "answer": "Buoy",
+      "acceptableAnswers": [],
+      "matchType": "exact"
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "question": "Which posthumous novel by Ernest Hemingway shares its title with a karaoke classic?",
+      "answer": "Islands in the Stream",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "question": "What is the common term for critical tech minerals as used in smartphones and EVs?",
+      "answer": "Rare earth minerals",
+      "acceptableAnswers": ["Rare earths", "Rare earth", "Rare earth metals", "Rare earth elements"]
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "question": "A type of savoury turnover, the gözleme is an example of which country's cuisine?",
+      "answer": "Türkiye",
+      "acceptableAnswers": ["Turkey", "Turkish"]
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "According to the Dreamtime story, did the Seven Sisters come from the land, sea or sky?",
+      "options": ["Land", "Sea", "Sky"],
+      "answer": "Sky"
+    },
+    {
+      "id": 13,
+      "type": "text",
+      "question": "Figuratively speaking, what kind of comb is used to examine something with extreme care?",
+      "answer": "A fine-tooth comb",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "question": "Which specific punctuation mark forms the central icon of Vodafone's official brand logo?",
+      "answer": "Speech mark (or quotation mark)",
+      "acceptableAnswers": ["Speech mark", "Speech marks", "Quotation mark", "Quotation marks", "Quote mark", "Inverted comma"]
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "question": "The flowering plant Gypsophila paniculata is commonly known as baby's ... what?",
+      "answer": "Breath",
+      "acceptableAnswers": ["Baby's breath"]
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "question": "Guy Pearce plays which real-life publishing tycoon in the upcoming film Ink?",
+      "answer": "Rupert Murdoch",
+      "acceptableAnswers": ["Murdoch"]
+    },
+    {
+      "id": 17,
+      "type": "text",
+      "question": "Which two nations have won World Cups in both men's and women's football?",
+      "answer": "Germany, Spain",
+      "acceptableAnswers": [],
+      "matchType": "set"
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "question": "Which chemical element has the lowest boiling point?",
+      "answer": "Helium",
+      "acceptableAnswers": ["He"]
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "What is a credenza: a type of decorative trim, a sideboard or an uptempo waltz?",
+      "options": ["A type of decorative trim", "A sideboard", "An uptempo waltz"],
+      "answer": "A sideboard"
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "question": "Opened in 2013, the Cardboard Cathedral is located in which New Zealand city?",
+      "answer": "Christchurch",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "The Tyrian purple worn by Roman royalty came from: rock lichen, sea snails or cochineal bugs?",
+      "options": ["Rock lichen", "Sea snails", "Cochineal bugs"],
+      "answer": "Sea snails"
+    },
+    {
+      "id": 22,
+      "type": "text",
+      "question": "Which Australian TV personality wrote the recently published book Middle Rage?",
+      "answer": "Myf Warhurst",
+      "acceptableAnswers": ["Warhurst"]
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "question": "What is a \"Brazilian blowout\"?",
+      "answer": "A hair-smoothing treatment",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["hair", "smooth|straight|keratin|treatment"]
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "question": "The TV series The Sopranos is largely set in which US state?",
+      "answer": "New Jersey",
+      "acceptableAnswers": ["NJ"]
+    },
+    {
+      "id": 25,
+      "type": "text",
+      "question": "While not an official title, MHR after an Australian politician's name stands for ... what?",
+      "answer": "Member of the House of Representatives",
+      "acceptableAnswers": ["Member of House of Representatives"]
+    }
+  ]
+}
