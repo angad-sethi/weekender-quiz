@@ -1,0 +1,191 @@
+{
+  "weekendOf": "2026-10-03",
+  "title": "Good Weekend - October 3",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "text",
+      "question": "The Shannon is the longest river in which country?",
+      "answer": "Ireland",
+      "acceptableAnswers": ["Republic of Ireland"]
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "question": "Which \"ology\" is the scientific study of reptiles and amphibians?",
+      "answer": "Herpetology",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "question": "Who became the first Indigenous inductee to the Logies Hall of Fame in August?",
+      "answer": "Deborah Mailman",
+      "acceptableAnswers": ["Mailman"]
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "question": "Which brand of breath mints were marketed in the 1980s and 1990s as \"the Freshmaker\"?",
+      "answer": "Mentos",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "question": "What are the first three prime numbers?",
+      "answer": "2, 3, 5",
+      "acceptableAnswers": ["Two, three, five", "Two, three and five", "Two, three, and five"],
+      "matchType": "set"
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "In regards to public policy and political transparency, what is said to be the \"best disinfectant\"?",
+      "answer": "Sunlight",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "question": "For its 29th season, the animated sitcom South Park has been officially renamed ... what?",
+      "answer": "South America",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "question": "Which Hindu god is often depicted holding a bowl of sweets?",
+      "answer": "Ganesha",
+      "acceptableAnswers": ["Ganapati"]
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "question": "In regards to match officials in soccer, what does VAR stand for?",
+      "answer": "Video assistant referee",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "question": "Match the band to their original name: Green Day, Radiohead, Silverchair; Innocent Criminals, Sweet Children, On a Friday. (Answer with the three original names in the order of the bands.)",
+      "answer": "Sweet Children, On a Friday, Innocent Criminals",
+      "acceptableAnswers": [],
+      "matchType": "ordered"
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "question": "Which element has the chemical symbol I?",
+      "answer": "Iodine",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "question": "The Spanish practice of \"el tapeo\" entails visiting a succession of ... what?",
+      "answer": "Tapas bars",
+      "acceptableAnswers": ["Tapas restaurants"]
+    },
+    {
+      "id": 13,
+      "type": "text",
+      "question": "What are the four Olympic swimming strokes?",
+      "answer": "Freestyle, backstroke, breaststroke, butterfly",
+      "acceptableAnswers": [],
+      "matchType": "set"
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "question": "What is a Dutch auction?",
+      "answer": "One where the auctioneer starts with a high price, which is gradually lowered until a bid is made",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["price|high|start|bid", "lower|drop|decreas|down|reduc|fall|descend"]
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "question": "The American political activist Abbie Hoffman was the author of Steal This ... what?",
+      "answer": "Book",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "question": "What is the only continent with no official standard time zone?",
+      "answer": "Antarctica",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 17,
+      "type": "text",
+      "question": "What was the first country to elect a female prime minister?",
+      "answer": "Sri Lanka",
+      "acceptableAnswers": ["Ceylon"]
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "question": "Which aerodynamic force acts directly opposite to the thrust of an aircraft?",
+      "answer": "Drag",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 19,
+      "type": "text",
+      "question": "The word \"pokémon\" is a contraction of which two words?",
+      "answer": "Pocket monster",
+      "acceptableAnswers": ["Pocket and monster", "Pocket and monsters"]
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "question": "According to a 17-century law, what colour must the gondolas of Venice be painted?",
+      "answer": "Black",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 21,
+      "type": "text",
+      "question": "What is the nationality of tennis player Aryna Sabalenka?",
+      "answer": "Belarusian",
+      "acceptableAnswers": ["Belarus"]
+    },
+    {
+      "id": 22,
+      "type": "text",
+      "question": "Which company manufactures Weet-Bix in Australia?",
+      "answer": "Sanitarium Health Food Company",
+      "acceptableAnswers": ["Sanitarium"]
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "question": "Which 2016 Sia album features songs originally written for - and rejected by - other artists?",
+      "answer": "This Is Acting",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "question": "What colour wine is malbec?",
+      "answer": "Red",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 25,
+      "type": "text",
+      "question": "Which Nobel Prize-winning author wrote Travels with Charley, an account of their epic journey across the US with a poodle?",
+      "answer": "John Steinbeck",
+      "acceptableAnswers": ["Steinbeck"]
+    }
+  ]
+}
