@@ -1,0 +1,202 @@
+{
+  "weekendOf": "2026-10-10",
+  "title": "Good Weekend - October 10",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "text",
+      "question": "Which African capital city's airport has the IATA code CAI?",
+      "answer": "Cairo",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "question": "Which substance extracted from sheep's wool is used in skincare products?",
+      "answer": "Lanolin",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "question": "At 4800 metres, what is the highest mountain in the Alps?",
+      "answer": "Mont Blanc",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "question": "What am I doing if I'm \"skyaking\"?",
+      "answer": "Skydiving while strapped into a kayak",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["skydive|skydiv|parachut|jump", "kayak"]
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "question": "According to 1970s Australian slang, when is \"sarftey\"?",
+      "answer": "This afternoon",
+      "acceptableAnswers": ["Afternoon"]
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "Private Practice and Station 19 are spin-offs from which TV medical drama?",
+      "answer": "Grey's Anatomy",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "question": "Which children's book by Julia Donaldson begins: \"A mouse took a stroll through the deep dark wood\"?",
+      "answer": "The Gruffalo",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "question": "Which country is hosting the 2027 AFC Asian Cup (men's)?",
+      "answer": "Saudi Arabia",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "question": "Ctrl+F is the keyboard shortcut for which function?",
+      "answer": "Find",
+      "acceptableAnswers": ["Search"]
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "question": "Name three of the five creatures mentioned in the song My Favourite Things.",
+      "answer": "Kittens, ponies, wild geese, the dog, the bee (any three)",
+      "acceptableAnswers": [
+        "Kittens, ponies, wild geese",
+        "Kittens, ponies, the dog",
+        "Kittens, ponies, the bee",
+        "Kittens, wild geese, the dog",
+        "Kittens, wild geese, the bee",
+        "Kittens, the dog, the bee",
+        "Ponies, wild geese, the dog",
+        "Ponies, wild geese, the bee",
+        "Ponies, the dog, the bee",
+        "Wild geese, the dog, the bee",
+        "Kittens, ponies, wild geese, the dog, the bee"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "question": "The company BHP originated as a silver-mining syndicate in which Australian town?",
+      "answer": "Broken Hill",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "question": "What is the meaning of the French expression, \"C'est comme ça\"?",
+      "answer": "That's how it is",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["how it is|way it is|it is what|such is"]
+    },
+    {
+      "id": 13,
+      "type": "text",
+      "question": "Which of Shakespeare's comedies contains the line, \"The course of true love never did run smooth\"?",
+      "answer": "A Midsummer Night's Dream",
+      "acceptableAnswers": ["Midsummer Night's Dream"]
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "True or false: sea turtle eggs incubated in warm sand tend to hatch as females, while those in cool sand hatch as males?",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "question": "Mary I of Scotland (1542-87) was executed for plotting to assassinate which monarch?",
+      "answer": "Elizabeth I",
+      "acceptableAnswers": ["Elizabeth 1", "Queen Elizabeth I"]
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "question": "What comes next in this sequence: MVEMJSU?",
+      "answer": "N",
+      "acceptableAnswers": ["Neptune", "N for Neptune"]
+    },
+    {
+      "id": 17,
+      "type": "text",
+      "question": "Which country was invited last month to become the first \"associate member\" of the European Union?",
+      "answer": "Canada",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "What was the word \"aquarium\" originally used for in Ancient Rome: a drinking trough, an ornamental fountain or a public bath?",
+      "options": ["A drinking trough", "An ornamental fountain", "A public bath"],
+      "answer": "A drinking trough"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "In athletics, a steeplechase is held over which standard distance: 1500, 2000, or 3000 metres?",
+      "options": ["1500 metres", "2000 metres", "3000 metres"],
+      "answer": "3000 metres"
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "question": "In which Australian city is the ACMI (Australian Centre for the Moving Image) museum located?",
+      "answer": "Melbourne",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 21,
+      "type": "text",
+      "question": "Which pop singer married the filmmaker Taika Waititi in 2022?",
+      "answer": "Rita Ora",
+      "acceptableAnswers": ["Ora"]
+    },
+    {
+      "id": 22,
+      "type": "text",
+      "question": "Copra is a product from which plant?",
+      "answer": "Coconut palm",
+      "acceptableAnswers": ["Coconut", "Coconut tree"]
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "question": "What is the only country to be named after an element?",
+      "answer": "Argentina",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "question": "How many studio albums did the grunge band Nirvana release?",
+      "answer": "Three",
+      "acceptableAnswers": ["3"]
+    },
+    {
+      "id": 25,
+      "type": "text",
+      "question": "What is Anthony Albanese's middle name?",
+      "answer": "Norman",
+      "acceptableAnswers": []
+    }
+  ]
+}
