@@ -1,0 +1,198 @@
+{
+  "weekendOf": "2026-10-17",
+  "title": "Good Weekend - October 17",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "Which is furthest west: Fiji, the Cook Islands or Samoa?",
+      "options": ["Fiji", "The Cook Islands", "Samoa"],
+      "answer": "Fiji"
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "question": "In regard to modern drinking habits, what is \"zebra striping\"?",
+      "answer": "Alternating an alcoholic drink with a non-alcoholic one",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["alternat|switch", "alcohol|beer|wine|spirit|cocktail", "non-alcohol|non alcohol|soft|water|mocktail|soda|juice"]
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "question": "Norman, John, Bligh, John, Michael, Eileen: what's the link?",
+      "answer": "They're the middle names of the last six Australian prime ministers",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["middle", "prime minister|pm"]
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "question": "What job would a \"gozzard\" do on a farm in medieval Britain?",
+      "answer": "Herd geese",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["goose|geese"]
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "question": "Which rock band released the song Teenage Dirtbag in 2000?",
+      "answer": "Wheatus",
+      "acceptableAnswers": [],
+      "matchType": "exact"
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "Who was voted the 2026 AFL Coaches Association's AFL senior coach of the year?",
+      "answer": "Justin Longmuir",
+      "acceptableAnswers": ["Longmuir"]
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "question": "A common name for the houseplant Dracaena trifasciata is mother-in-law's ... what?",
+      "answer": "Tongue",
+      "acceptableAnswers": [],
+      "matchType": "exact"
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "question": "Which country has the world's longest national highway?",
+      "answer": "Australia",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "question": "Which video-game franchise is primarily set in the fictional town of Raccoon City?",
+      "answer": "Resident Evil",
+      "acceptableAnswers": ["Biohazard"]
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "Was the Complutensian Polyglot a prototype computer, a 1960s rock band or an edition of the Bible?",
+      "options": ["A prototype computer", "A 1960s rock band", "An edition of the Bible"],
+      "answer": "An edition of the Bible"
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "question": "Which dish is known in French as pain perdu, or \"lost bread\"?",
+      "answer": "French toast",
+      "acceptableAnswers": ["Eggy bread"]
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "question": "Which singer played ferocious henchman Ironbar Bassey in the 1985 film Mad Max: Beyond Thunderdome?",
+      "answer": "Angry Anderson",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "True or false: a wound sustained during the day heals faster than one sustained at night?",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "question": "In Greek mythology, which Titan was condemned to hold up the heavens for eternity?",
+      "answer": "Atlas",
+      "acceptableAnswers": [],
+      "matchType": "exact"
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "question": "Ichthyology is the scientific study of ... what?",
+      "answer": "Fish",
+      "acceptableAnswers": ["Fishes"],
+      "matchType": "exact"
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "question": "The computer Deep Thought appears in which 1979 comedy sci-fi novel (and radio play, TV series and movie)?",
+      "answer": "The Hitchhiker's Guide to the Galaxy",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 17,
+      "type": "text",
+      "question": "On which planet is Olympus Mons, the tallest mountain (and volcano) in our solar system?",
+      "answer": "Mars",
+      "acceptableAnswers": [],
+      "matchType": "exact"
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "question": "The late illustrator Terry Denton was best known for which series of children's books?",
+      "answer": "The Treehouse books",
+      "acceptableAnswers": ["Treehouse", "The Treehouse series"]
+    },
+    {
+      "id": 19,
+      "type": "text",
+      "question": "What, starting with \"A\", is Google's parent company?",
+      "answer": "Alphabet",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "question": "Hip-hop artist Adam Briggs' 2014 album Sheplife is a portrait of which Australian town?",
+      "answer": "Shepparton",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 21,
+      "type": "text",
+      "question": "What innovation was added to pinball machines in 1947?",
+      "answer": "The flipper",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 22,
+      "type": "text",
+      "question": "In 1912, Fanny Durack became the first Australian woman to win an Olympic gold medal in which sport?",
+      "answer": "Swimming",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "question": "Match the family to the TV show: the Dunphys, the Keatons, the Tanners; Full House, Modern Family, Family Ties. (Answer with the three shows in the order of the families.)",
+      "answer": "Modern Family, Family Ties, Full House",
+      "acceptableAnswers": [],
+      "matchType": "ordered"
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "question": "Hexakosioihexekontahexaphobia is an irrational fear of which number?",
+      "answer": "666",
+      "acceptableAnswers": ["Six hundred and sixty-six", "Six hundred sixty-six"]
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "What type of fish is the Australian largetooth sawfish: an eel, a ray or a shark?",
+      "options": ["An eel", "A ray", "A shark"],
+      "answer": "A ray"
+    }
+  ]
+}
