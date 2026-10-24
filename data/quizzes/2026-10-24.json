@@ -1,0 +1,197 @@
+{
+  "weekendOf": "2026-10-24",
+  "title": "Good Weekend - October 24",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "text",
+      "question": "Ceviche, the national dish of Peru, typically contains which protein?",
+      "answer": "Raw fish",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["raw|uncooked", "fish"]
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "question": "What does it mean if an animal is arboreal?",
+      "answer": "It's tree-dwelling",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["tree"]
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "question": "The Beatles and Joan Didion released an album and a book, respectively, with which shared title?",
+      "answer": "The White Album",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "question": "Which herb notoriously tastes like soap to people with a specific genetic gene variation?",
+      "answer": "Coriander",
+      "acceptableAnswers": ["Cilantro"]
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "question": "Jasmin Arndt, of the YouTube channel Jasmin & James, is a trained performer in what discipline?",
+      "answer": "Dance",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "What is the maximum distance a player can run with the ball in an AFL game before bouncing or touching it on the ground?",
+      "answer": "15 metres",
+      "acceptableAnswers": ["15", "15m", "15 m", "Fifteen metres", "Fifteen meters"]
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "question": "Which active rank in the Royal Australian Air Force is abbreviated as ACM?",
+      "answer": "Air chief marshal",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "question": "Domenico and Stefano are the first names of which fashion design duo?",
+      "answer": "Dolce and Gabbana",
+      "acceptableAnswers": ["Dolce & Gabbana", "Dolce Gabbana", "D&G"]
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "True or false: Ceratopetalum gummiferum (\"Christmas bush\") is an introduced species in Australia?",
+      "options": ["True", "False"],
+      "answer": "False"
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "question": "Which American singer had a hit in 1956 with Day-O (The Banana Boat Song)?",
+      "answer": "Harry Belafonte",
+      "acceptableAnswers": ["Belafonte"]
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "question": "Sausage-making was intermittently banned in Germany during World War I because the military needed cow intestines for what purpose?",
+      "answer": "To manufacture hydrogen gas bags for Zeppelin airships",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["hydrogen", "zeppelin|airship|blimp"]
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "question": "According to the saying, \"A nod is as good as a wink to a blind [what?]\"",
+      "answer": "Horse",
+      "acceptableAnswers": [],
+      "matchType": "exact"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "Which country won the gold medal in the Open event at the 46th Chess Olympiad last month: Germany, India or Uzbekistan?",
+      "options": ["Germany", "India", "Uzbekistan"],
+      "answer": "Uzbekistan"
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "question": "What kind of moths are known in south-east Australia for their mass migration in spring?",
+      "answer": "Bogong",
+      "acceptableAnswers": [],
+      "matchType": "exact"
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "question": "What is the sum of the angles in a triangle?",
+      "answer": "180 degrees",
+      "acceptableAnswers": ["180", "180°", "One hundred and eighty", "One hundred and eighty degrees", "One hundred eighty degrees"]
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "question": "What two homophones are words for a projection over a theatre entrance and an aristocrat, respectively?",
+      "answer": "Marquee, marquis",
+      "acceptableAnswers": ["Marquee and marquis"],
+      "matchType": "ordered"
+    },
+    {
+      "id": 17,
+      "type": "text",
+      "question": "What is the title of Colleen Hoover's 2022 sequel to her 2016 romance novel, It Ends with Us?",
+      "answer": "It Starts with Us",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "question": "What is both a weapon in the Star Trek universe and a guitar effect pedal?",
+      "answer": "Phaser",
+      "acceptableAnswers": [],
+      "matchType": "exact"
+    },
+    {
+      "id": 19,
+      "type": "text",
+      "question": "What are the two values of an ace in the card game blackjack?",
+      "answer": "1 and 11",
+      "acceptableAnswers": ["11 and 1", "1, 11", "11, 1", "1 or 11", "11 or 1", "1 & 11", "11 & 1"]
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "question": "Where is the Mare Frigoris (aka Sea of Cold)?",
+      "answer": "The moon",
+      "acceptableAnswers": ["Luna"]
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "If I'm enervated, am I feeling anxious, energised or tired?",
+      "options": ["Anxious", "Energised", "Tired"],
+      "answer": "Tired"
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "Which chocolate bar came first: Crunchie or Violet Crumble?",
+      "options": ["Crunchie", "Violet Crumble"],
+      "answer": "Violet Crumble"
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "question": "What structures are generally categorised as either gravity, embankment, buttress or arch?",
+      "answer": "Dams",
+      "acceptableAnswers": ["Dam"],
+      "matchType": "exact"
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "question": "Which British actor has a DJ career as \"DJ Big Driss\"?",
+      "answer": "Idris Elba",
+      "acceptableAnswers": ["Elba"]
+    },
+    {
+      "id": 25,
+      "type": "text",
+      "question": "What is the lowest-lying capital city in the world, sitting roughly 28 metres below sea level?",
+      "answer": "Baku, Azerbaijan",
+      "acceptableAnswers": ["Baku"]
+    }
+  ]
+}
