@@ -1,0 +1,202 @@
+{
+  "weekendOf": "2026-10-31",
+  "title": "Good Weekend - October 31",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "Which is the largest of Japan's four main islands: Hokkaido, Honshu, Shikoku or Kyushu?",
+      "options": ["Hokkaido", "Honshu", "Shikoku", "Kyushu"],
+      "answer": "Honshu"
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "question": "What word for a single circuit of a racetrack can also mean to drink with the tongue?",
+      "answer": "Lap",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "question": "A brown bear nicknamed \"Backpack\" recently won which competition?",
+      "answer": "Alaska's Fat Bear Week 2026",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["fat bear"]
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "question": "In which century was the Mona Lisa painted?",
+      "answer": "The 16th century",
+      "acceptableAnswers": ["16th", "Sixteenth", "Sixteenth century", "1500s"]
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "question": "Hogget is the meat from which animal?",
+      "answer": "Sheep",
+      "acceptableAnswers": [],
+      "matchType": "exact"
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "In the 1972 song Take it Easy, by the Eagles, the singer is standing on a corner ... where?",
+      "answer": "Winslow, Arizona",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["winslow"]
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "question": "Invented in the late 19th century, the mimeograph (or stencil machine) was eventually replaced by ... what?",
+      "answer": "The photocopier",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["photocop|xerox"]
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "question": "22/7, 6/5 and 230/80 are all examples of what kind of fraction?",
+      "answer": "Improper fraction",
+      "acceptableAnswers": ["Improper"]
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "question": "Who is the subject of the upcoming A24 documentary, You Can See Everything?",
+      "answer": "Elizabeth Holmes",
+      "acceptableAnswers": ["Holmes"],
+      "matchType": "exact"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "Do sea urchins have feet?",
+      "options": ["Yes", "No"],
+      "answer": "Yes"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "How high is Mount Kosciuszko in metres: 1228, 2228 or 3228?",
+      "options": ["1228 metres", "2228 metres", "3228 metres"],
+      "answer": "2228 metres"
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "question": "According to the Gospel of John, at what kind of event did Jesus turn water into wine?",
+      "answer": "A wedding (at Cana in Galilee)",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["wedding|marriage"]
+    },
+    {
+      "id": 13,
+      "type": "text",
+      "question": "Who or what links California's Folsom and San Quentin prisons with Sweden's Österåker Prison?",
+      "answer": "Johnny Cash",
+      "acceptableAnswers": ["Cash"],
+      "matchType": "exact"
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "question": "From left to right, name the three colours of the Italian flag.",
+      "answer": "Green, white, red",
+      "acceptableAnswers": ["Green, white and red", "Green, white, and red"],
+      "matchType": "ordered"
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "question": "Which full-contact combat sport is known by the acronym MMA?",
+      "answer": "Mixed martial arts",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "question": "\"Elevenses\" is a British colloquialism for ... what?",
+      "answer": "Morning tea",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 17,
+      "type": "text",
+      "question": "A \"technical recession\" is traditionally defined by economists as how many consecutive quarters of negative GDP growth?",
+      "answer": "Two",
+      "acceptableAnswers": ["2"]
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "question": "What is the gardening tool known as a dibber (or dibble) used for?",
+      "answer": "Poking holes in the ground for planting seeds, seedlings or small bulbs",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["hole|poke|pierce|dibbl", "plant|seed|seedling|bulb"]
+    },
+    {
+      "id": 19,
+      "type": "text",
+      "question": "Which is the only country in the Middle East without a desert?",
+      "answer": "Lebanon",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "question": "Which bird, with the Ngarrindjeri name Kungari, features next to David Unaipon on the $50 note?",
+      "answer": "Black swan",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 21,
+      "type": "text",
+      "question": "Which bestselling series of science fantasy books follows Carl and his ex-girlfriend's cat, Princess Donut?",
+      "answer": "Dungeon Crawler Carl",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["dungeon crawler carl"]
+    },
+    {
+      "id": 22,
+      "type": "text",
+      "question": "\"This isn't a scene from Mad Max,\" said NSW Transport Minister John Graham earlier this month. \"This is where illegal [what?] go to die.\"",
+      "answer": "E-bikes",
+      "acceptableAnswers": ["Electric bikes", "Electric bicycles", "E-bicycles"]
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "question": "Which capital city's airport has the IATA code STO?",
+      "answer": "Stockholm, Sweden",
+      "acceptableAnswers": ["Stockholm"]
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "question": "Famous for its whitewater rafting, the Shotover River is near which New Zealand resort town?",
+      "answer": "Queenstown",
+      "acceptableAnswers": ["Queenstown, New Zealand"]
+    },
+    {
+      "id": 25,
+      "type": "text",
+      "question": "Located in Tasmania and 99.6 metres tall, what species is \"Centurion\", Australia's tallest tree?",
+      "answer": "Mountain ash",
+      "acceptableAnswers": ["Swamp gum", "Eucalyptus regnans"]
+    }
+  ]
+}
