@@ -1,0 +1,194 @@
+{
+  "weekendOf": "2026-11-07",
+  "title": "Good Weekend - November 7",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "Do passionfruit grow on bushes, trees or vines?",
+      "options": ["Bushes", "Trees", "Vines"],
+      "answer": "Vines"
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "question": "What is the common name for the chaparral bird, a type of fast-running ground cuckoo?",
+      "answer": "Roadrunner",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "question": "The composer Puccini and libertine Casanova shared what first name?",
+      "answer": "Giacomo",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "question": "How many players are there on court in a netball game?",
+      "answer": "14",
+      "acceptableAnswers": ["Fourteen", "14 players", "Fourteen players"]
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "question": "Which actor has portrayed the real-life figures Joan Jett, Jean Seberg and Princess Diana?",
+      "answer": "Kristen Stewart",
+      "acceptableAnswers": ["Stewart"],
+      "matchType": "exact"
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "According to contemporary slang, what am I if I'm \"washed\"?",
+      "answer": "Past my prime (a shortening of \"washed up\")",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["past my prime|washed up|washed-up"]
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "As the crow flies, which is closest to Hobart: Adelaide or Sydney?",
+      "options": ["Adelaide", "Sydney"],
+      "answer": "Sydney"
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "question": "What does private eye Philip Marlowe describe as \"The life-blood of tired men\" in Raymond Chandler's The Long Goodbye (1953)?",
+      "answer": "Coffee",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "question": "Which part of the body does trachoma affect?",
+      "answer": "The eye",
+      "acceptableAnswers": ["Eyes"]
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "question": "According to the adage, \"Little strokes fell great [what?]\"",
+      "answer": "Oaks",
+      "acceptableAnswers": ["Oak"],
+      "matchType": "exact"
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "question": "Which notorious drug lord is namechecked in Tame Impala's hit song Dracula?",
+      "answer": "Pablo Escobar",
+      "acceptableAnswers": ["Escobar"]
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "question": "How many seconds are there in 21 minutes?",
+      "answer": "1260",
+      "acceptableAnswers": ["1260 seconds"]
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "True or false: the men's FIFA World Cup has only ever been won by democracies?",
+      "options": ["True", "False"],
+      "answer": "False"
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "question": "In the video game Tetris, each piece – or \"tetromino\" – is made up of exactly how many squares?",
+      "answer": "Four",
+      "acceptableAnswers": ["4"],
+      "matchType": "exact"
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "question": "In which branch of the Australian Defence Force did Jacqui Lambie serve before entering politics?",
+      "answer": "The Army",
+      "acceptableAnswers": ["Australian Army"],
+      "matchType": "exact"
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "question": "Located near Ogden, Utah, in the US, Ben Lomond Peak was the inspiration for which entertainment logo?",
+      "answer": "Paramount Pictures",
+      "acceptableAnswers": ["Paramount"]
+    },
+    {
+      "id": 17,
+      "type": "text",
+      "question": "Which empire did Suleiman the Magnificent rule?",
+      "answer": "The Ottoman Empire",
+      "acceptableAnswers": ["Ottoman", "Ottomans"]
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "question": "What is a \"trilemma\"?",
+      "answer": "A difficult choice between three alternatives",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["three|3", "choice|option|alternative|alternat"]
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "Is the kraken a monster from Irish, Scandinavian or Baltic folklore?",
+      "options": ["Irish", "Scandinavian", "Baltic"],
+      "answer": "Scandinavian"
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "question": "The recently published The Lucky Son is the follow-up to which 2003 memoir by Li Cunxin?",
+      "answer": "Mao's Last Dancer",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 21,
+      "type": "text",
+      "question": "Which element has the symbol Xe?",
+      "answer": "Xenon",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "Which is the longest-running Australian television program: Behind the News, Four Corners or Play School?",
+      "options": ["Behind the News", "Four Corners", "Play School"],
+      "answer": "Four Corners"
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "question": "What, starting with \"R\", is a jumpsuit with shorts and loose sleeves?",
+      "answer": "Romper",
+      "acceptableAnswers": ["Romper suit"]
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "question": "The city of Algiers is on the coast of which sea?",
+      "answer": "The Mediterranean",
+      "acceptableAnswers": ["Mediterranean Sea"]
+    },
+    {
+      "id": 25,
+      "type": "text",
+      "question": "The English novelist Eric Blair (1903-1950) wrote under which pen name?",
+      "answer": "George Orwell",
+      "acceptableAnswers": ["Orwell"]
+    }
+  ]
+}
