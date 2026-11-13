@@ -1,0 +1,205 @@
+{
+  "weekendOf": "2026-11-14",
+  "title": "Good Weekend - November 14",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "text",
+      "question": "Match the pet dog to the PM: Reuben (cavoodle), Droopy (spaniel), Buddy (schnoodle); Malcolm Fraser, Julia Gillard, Scott Morrison. (Answer with the three PMs in the order of the dogs.)",
+      "answer": "Julia Gillard, Malcolm Fraser, Scott Morrison",
+      "acceptableAnswers": [],
+      "matchType": "ordered"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "Which has more bones: the foot or the hand?",
+      "options": ["The foot", "The hand"],
+      "answer": "The hand"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "Which isn't a sandwich: croque-monsieur, Philly cheesesteak or scotch egg?",
+      "options": ["Croque-monsieur", "Philly cheesesteak", "Scotch egg"],
+      "answer": "Scotch egg"
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "question": "In which Melbourne building is the world's largest stained-glass ceiling?",
+      "answer": "The National Gallery of Victoria",
+      "acceptableAnswers": ["NGV", "NGV International", "National Gallery"]
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "question": "In standard basketball, how many points is a slam dunk worth?",
+      "answer": "Two",
+      "acceptableAnswers": ["2", "2 points", "Two points"],
+      "matchType": "exact"
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "PETA is an acronym for which animal-rights group?",
+      "answer": "People for the Ethical Treatment of Animals",
+      "acceptableAnswers": ["People for Ethical Treatment of Animals"]
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "question": "Which Ford motor car was named after an Italian ski resort?",
+      "answer": "The Ford Cortina",
+      "acceptableAnswers": ["Cortina"]
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "question": "Which year saw the launch of Wikipedia, the iPod and the original Xbox?",
+      "answer": "2001",
+      "acceptableAnswers": [],
+      "matchType": "exact"
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "question": "Saxophonist Kenneth Gorelick is better known by what stage name?",
+      "answer": "Kenny G",
+      "acceptableAnswers": ["KennyG", "Kenny Gee"],
+      "matchType": "exact"
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "question": "Which book ranked first in ABC Radio National's Top 100 Australian Books last month?",
+      "answer": "Cloudstreet",
+      "acceptableAnswers": ["Tim Winton's Cloudstreet", "Cloudstreet by Tim Winton"]
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "question": "Which was the first country to introduce a mandatory driving test?",
+      "answer": "France",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "question": "According to Greek legend, in which river was the infant Achilles dipped in an attempt to make him immortal?",
+      "answer": "The Styx",
+      "acceptableAnswers": ["River Styx", "Styx River"]
+    },
+    {
+      "id": 13,
+      "type": "text",
+      "question": "The young of which creatures are called \"fingerlings\" at a certain stage of their development?",
+      "answer": "Fish",
+      "acceptableAnswers": ["Fishes"],
+      "matchType": "exact"
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "question": "True or false: \"Häagen-Dazs\" is Danish for \"happy days\"?",
+      "options": ["True", "False"],
+      "answer": "False"
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "question": "The mnemonic \"rhythm helps your two hips move\" is used to remember ... what?",
+      "answer": "The spelling of \"rhythm\"",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["spel|letter", "rhyth|ryth|rhytm"]
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "question": "Federal minister Malarndirri McCarthy is responsible for which portfolio?",
+      "answer": "Indigenous Australians",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["indigenous|aboriginal|first nations"]
+    },
+    {
+      "id": 17,
+      "type": "text",
+      "question": "A recently passed NSW bill will allow the state's residents to be \"terramated\", meaning ... what?",
+      "answer": "Having their bodies legally turned into nutrient-rich soil after death (via terramation, aka \"human composting\")",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["compost|soil|fertilis|fertiliz|mulch"]
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "question": "Cable Beach is located about six kilometres west of which Australian town?",
+      "answer": "Broome",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 19,
+      "type": "text",
+      "question": "To deal with something superficially is to skim the ... what?",
+      "answer": "Surface",
+      "acceptableAnswers": ["Skim the surface"]
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "question": "What vegetable did Mark Twain describe as \"cabbage with a college education\"?",
+      "answer": "Cauliflower",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "Which is India's most common surname: Devi, Kumar or Singh?",
+      "options": ["Devi", "Kumar", "Singh"],
+      "answer": "Devi"
+    },
+    {
+      "id": 22,
+      "type": "text",
+      "question": "Which is the only team in the English Premier League era to finish an entire 38-match season undefeated?",
+      "answer": "Arsenal",
+      "acceptableAnswers": ["Arsenal FC", "Gunners"]
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "question": "Which packaging material was originally (and unsuccessfully) used as wallpaper and insulation for greenhouses?",
+      "answer": "Bubble wrap",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "question": "Starburster, by the Irish band Fontaines D.C., is the theme song for which TV series about organised crime?",
+      "answer": "MobLand",
+      "acceptableAnswers": ["Mob Land"],
+      "matchType": "exact"
+    },
+    {
+      "id": 25,
+      "type": "text",
+      "question": "Name two Australians who have raced in Formula 1 in the 21st century.",
+      "answer": "Mark Webber, Daniel Ricciardo, Oscar Piastri, Jack Doohan (any two)",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": [
+        "webber|weber|ricciardo|riccardo|ricardo|riciardo|piastr",
+        "webber|weber|ricciardo|riccardo|ricardo|riciardo|doohan|dohan",
+        "webber|weber|piastr|doohan|dohan",
+        "ricciardo|riccardo|ricardo|riciardo|piastr|doohan|dohan"
+      ]
+    }
+  ]
+}
