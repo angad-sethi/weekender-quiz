@@ -1,0 +1,201 @@
+{
+  "weekendOf": "2026-11-21",
+  "title": "Good Weekend - November 21",
+  "source": {
+    "author": "Brian Yatman",
+    "publication": "Good Weekend, Sydney Morning Herald",
+    "url": "https://www.smh.com.au/good-weekend"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "text",
+      "question": "Which astrological sign comes last, alphabetically?",
+      "answer": "Virgo",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "question": "What geological term refers to a ring-shaped coral reef surrounding a central lagoon?",
+      "answer": "Atoll",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "question": "Who has been cast as Erin Patterson in the coming TV series Mushroom Murders: There's More to Unearth?",
+      "answer": "Melanie Lynskey",
+      "acceptableAnswers": ["Lynskey"]
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "question": "The 2016 Summer Olympics were held in which city?",
+      "answer": "Rio de Janeiro",
+      "acceptableAnswers": ["Rio"]
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "question": "What cooking technique involves adding liquid to a hot pan to dissolve and lift caramelised food bits stuck to the bottom?",
+      "answer": "Deglazing",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["deglaz|deglas|de-glaz|de-glas"]
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "At 1986 metres above sea level, Mount Bogong is the highest mountain in which state or territory?",
+      "answer": "Victoria",
+      "acceptableAnswers": ["Vic"]
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "question": "Which German composer wrote the Bridal Chorus (aka \"Here Comes the Bride\")?",
+      "answer": "Richard Wagner",
+      "acceptableAnswers": ["Wagner"]
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "Between dugongs and manatees, which species has a broad, paddle-shaped tail?",
+      "options": ["Dugongs", "Manatees"],
+      "answer": "Manatees"
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "question": "Who did Geri Halliwell (\"Ginger Spice\") describe in 1996 as \"the first Spice Girl, the pioneer of our ideology Girl Power\"?",
+      "answer": "Margaret Thatcher",
+      "acceptableAnswers": ["Thatcher", "Maggie Thatcher"]
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "question": "The liqueur Kahlua is made from rum, sugar and ... what?",
+      "answer": "Coffee beans",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["coffe|cofee"]
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "Which is not in South America: Brazil, Chile or Panama?",
+      "options": ["Brazil", "Chile", "Panama"],
+      "answer": "Panama"
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "question": "Whose wedding took place on June 3, 1937, at the Château de Candé, Monts, France?",
+      "answer": "Prince Edward and Wallis Simpson",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["edward|windsor|wallis|walis|simpson"]
+    },
+    {
+      "id": 13,
+      "type": "text",
+      "question": "Hypermetropia is the opposite of which vision condition?",
+      "answer": "Myopia (or short-sightedness)",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["myopi|miopi|short|near"]
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "question": "How many suits are there in an ordinary deck of cards?",
+      "answer": "Four",
+      "acceptableAnswers": ["4", "4 suits", "Four suits"],
+      "matchType": "exact"
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "question": "What is the common name for hydraulic rescue tools used to free crash victims from vehicles?",
+      "answer": "The jaws of life",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "question": "The TV soap Neighbours is to be recut as a \"microdrama\" focusing on which character?",
+      "answer": "Donna Freedman",
+      "acceptableAnswers": ["Donna", "Freedman"]
+    },
+    {
+      "id": 17,
+      "type": "text",
+      "question": "In Victorian-era slang, how am I feeling if I've \"got the morbs\"?",
+      "answer": "Gloomy, down (\"morbs\" is derived from morbid)",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["gloom|glum|down|sad|depress|melanchol|miserabl|morbid|morose|blue|despond|deject"]
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "question": "Which Caribbean country has the only national flag that does not contain red, white or blue?",
+      "answer": "Jamaica",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 19,
+      "type": "text",
+      "question": "Which Tasmanian cricketer was recently named the new interim chair of Cricket Australia?",
+      "answer": "David Boon",
+      "acceptableAnswers": ["Boon", "Boonie"]
+    },
+    {
+      "id": 20,
+      "type": "text",
+      "question": "Which albums by The Beatles and Jay-Z were remixed and combined to create Danger Mouse's The Grey Album (2004)?",
+      "answer": "The Beatles (commonly known as The White Album) and The Black Album",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["white|self-titled|self titled|eponymous", "black"]
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "Is an \"inflorescence\" a cluster of stars, flowers or fireflies?",
+      "options": ["Stars", "Flowers", "Fireflies"],
+      "answer": "Flowers"
+    },
+    {
+      "id": 22,
+      "type": "text",
+      "question": "Which everyday object is depicted in René Magritte's 1929 painting The Treachery of Images?",
+      "answer": "A tobacco pipe",
+      "acceptableAnswers": [],
+      "matchType": "keywords",
+      "keywords": ["pipe"]
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "Which city is the EU's most populous: Berlin, Madrid, Rome?",
+      "options": ["Berlin", "Madrid", "Rome"],
+      "answer": "Berlin"
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "question": "In which 1984 film does Anthony Hopkins say, \"God damn your eyes, man! You turned your back on me!\"?",
+      "answer": "The Bounty",
+      "acceptableAnswers": []
+    },
+    {
+      "id": 25,
+      "type": "text",
+      "question": "What is the Roman name for the Greek god Zeus?",
+      "answer": "Jupiter",
+      "acceptableAnswers": ["Jove"]
+    }
+  ]
+}
